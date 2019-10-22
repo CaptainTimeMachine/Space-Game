@@ -1,0 +1,1282 @@
+﻿Log file open, 10/22/19 10:11:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Space_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066627
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Unreal Engine 4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.22-17.11.14:632][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.22-17.11.14:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:633][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:635][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-17.11.14:635][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-17.11.14:636][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-17.11.14:636][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-17.11.14:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.22-17.11.14:638][  0]LogHAL: Display: Platform has ~ 8 GB [8538304512 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.22-17.11.14:638][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.22-17.11.14:638][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-17.11.14:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.22-17.11.14:639][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.11.14:639][  0]LogInit: Computer: IT00-177084
+[2019.10.22-17.11.14:639][  0]LogInit: User: vsmith1868
+[2019.10.22-17.11.14:639][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.22-17.11.14:639][  0]LogInit: High frequency timer resolution =3.905120 MHz
+[2019.10.22-17.11.14:640][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.10.22-17.11.14:640][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.22-17.11.14:640][  0]LogMemory: Process Physical Memory: 99.61 MB used, 99.61 MB peak
+[2019.10.22-17.11.14:640][  0]LogMemory: Process Virtual Memory: 88.26 MB used, 88.26 MB peak
+[2019.10.22-17.11.14:640][  0]LogMemory: Physical Memory: 4856.75 MB used,  3286.01 MB free, 8142.76 MB total
+[2019.10.22-17.11.14:640][  0]LogMemory: Virtual Memory: 4667.91 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.10.22-17.11.14:642][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.22-17.11.14:664][  0]LogInit: Using OS detected language (en-US).
+[2019.10.22-17.11.14:664][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.22-17.11.14:665][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.22-17.11.14:829][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.22-17.11.14:858][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.22-17.11.14:859][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.22-17.11.14:987][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-17.11.14:987][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.22-17.11.15:033][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.10.22-17.11.15:033][  0]LogD3D11RHI:       2016/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.22-17.11.15:035][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.22-17.11.15:035][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.22-17.11.15:035][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.22-17.11.15:041][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.22-17.11.15:041][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.22-17.11.15:041][  0]LogWindows: EnumDisplayDevices:
+[2019.10.22-17.11.15:041][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.10.22-17.11.15:042][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.10.22-17.11.15:042][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.10.22-17.11.15:042][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.10.22-17.11.15:042][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.22-17.11.15:042][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.10.22-17.11.15:042][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.10.22-17.11.15:042][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.10.22-17.11.15:042][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.10.22-17.11.15:067][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.22-17.11.15:079][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.22-17.11.15:355][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.22-17.11.15:362][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.22-17.11.15:370][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.22-17.11.15:380][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.22-17.11.15:387][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.22-17.11.15:394][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.22-17.11.15:401][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.22-17.11.15:408][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.22-17.11.15:411][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.22-17.11.15:442][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.22-17.11.15:444][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.22-17.11.15:458][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.22-17.11.15:458][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.22-17.11.15:469][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.22-17.11.15:469][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.22-17.11.15:476][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.22-17.11.15:482][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.22-17.11.15:488][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.22-17.11.15:494][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.22-17.11.15:514][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.22-17.11.15:514][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.22-17.11.15:514][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.22-17.11.15:522][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.22-17.11.15:563][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Intermediate/Shaders/WorkingDirectory/12004/).
+[2019.10.22-17.11.15:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vsmith1868/AppData/Local/Temp/UnrealShaderWorkingDir/C41BEA014BAB2E4CCF42EE85F3288848/'.
+[2019.10.22-17.11.15:564][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.22-17.11.15:564][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.22-17.11.15:564][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.22-17.11.16:068][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: Loaded boot cache 0.08s 73MB C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-17.11.16:149][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.22-17.11.16:158][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.22-17.11.16:158][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-17.11.16:158][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.22-17.11.16:160][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vsmith1868/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.22-17.11.16:160][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.22-17.11.16:160][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.22-17.11.16:179][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.22-17.11.16:181][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.22-17.11.16:182][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.22-17.11.16:227][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2019.10.22-17.11.16:447][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-17.11.16:570][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.22-17.11.16:570][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.22-17.11.16:570][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.22-17.11.16:570][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.22-17.11.16:570][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.22-17.11.16:578][  0]LogNetVersion: Space_Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1558173762)
+[2019.10.22-17.11.16:932][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.039872 seconds
+[2019.10.22-17.11.16:938][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.22-17.11.16:938][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.22-17.11.16:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.22-17.11.17:609][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.22-17.11.17:612][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.22-17.11.17:656][  0]SourceControl: Source control is disabled
+[2019.10.22-17.11.17:656][  0]SourceControl: Source control is disabled
+[2019.10.22-17.11.17:657][  0]SourceControl: Source control is disabled
+[2019.10.22-17.11.17:658][  0]SourceControl: Source control is disabled
+[2019.10.22-17.11.17:733][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.22-17.11.17:827][  0]LogOcInput: OculusInput pre-init called
+[2019.10.22-17.11.17:833][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.22-17.11.17:833][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.22-17.11.17:888][  0]LogEngine: Initializing Engine...
+[2019.10.22-17.11.17:889][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-17.11.17:890][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.22-17.11.18:084][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.22-17.11.18:095][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.22-17.11.18:122][  0]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-17.11.18:144][  0]LogInit: FAudioDevice initialized.
+[2019.10.22-17.11.18:144][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.22-17.11.18:333][  0]LogDerivedDataCache: Saved boot cache 0.19s 73MB C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.22-17.11.18:346][  0]LogInit: Texture streaming: Enabled
+[2019.10.22-17.11.18:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.22-17.11.18:419][  0]LogInit: Transaction tracking system initialized
+[2019.10.22-17.11.18:442][  0]BlueprintLog: New page: Editor Load
+[2019.10.22-17.11.18:499][  0]LocalizationService: Localization service is disabled
+[2019.10.22-17.11.18:756][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Content/' took 0.00s
+[2019.10.22-17.11.18:756][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.22-17.11.18:757][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.22-17.11.18:910][  0]SourceControl: Source control is disabled
+[2019.10.22-17.11.18:910][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-17.11.18:910][  0]LightingResults: New page: Lighting Build
+[2019.10.22-17.11.18:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.11.18:912][  0]MapCheck: New page: Map Check
+[2019.10.22-17.11.18:912][  0]LightingResults: New page: Lighting Build
+[2019.10.22-17.11.18:932][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.22-17.11.24:204][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.22-17.11.24:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-17.11.24:316][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.10.22-17.11.24:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-17.11.24:316][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.10.22-17.11.24:316][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 5.406
+[2019.10.22-17.11.24:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.11.24:651][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.11.24:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.11.24:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.11.24:689][  0]LogCollectionManager: Loaded 0 collections in 0.001240 seconds
+[2019.10.22-17.11.24:746][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Collections/' took 0.00s
+[2019.10.22-17.11.24:746][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Developers/vsmith1868/Collections/' took 0.00s
+[2019.10.22-17.11.24:746][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Collections/' took 0.00s
+[2019.10.22-17.11.24:746][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000014 seconds
+[2019.10.22-17.11.24:755][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2863 classes and 680 folders.
+[2019.10.22-17.11.24:805][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.11.25:518][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.11.25:559][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.22-17.11.25:969][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.22-17.11.26:001][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.22-17.11.26:012][  0]LogSlate: Took 0.006596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.22-17.11.26:202][  0]LogRenderer: Reallocating scene render targets to support 1092x464 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-17.11.26:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.11.26:408][  0]LogLoad: (Engine Initialization) Total time: 12.96 seconds
+[2019.10.22-17.11.26:408][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.22-17.11.26:418][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.22-17.11.26:485][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.22-17.11.26:500][  0]LogSlate: Took 0.004936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-17.11.26:714][  2]LogAssetRegistry: Asset discovery search completed in 10.4874 seconds
+[2019.10.22-17.11.26:717][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.10.22-17.11.26:717][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.10.22-17.11.37:669][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.11.37:804][319]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-17.11.38:230][319]LogAIModule: Creating AISystem for world testmap
+[2019.10.22-17.11.38:243][319]LogAssetEditorManager: Opening Asset editor for World /Game/testmap.testmap
+[2019.10.22-17.11.38:271][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.22-17.11.38:271][319]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-17.11.38:272][319]LightingResults: New page: Lighting Build
+[2019.10.22-17.11.38:272][319]LoadErrors: New page: Loading map: testmap.umap
+[2019.10.22-17.11.38:272][319]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.11.38:273][319]MapCheck: New page: Map Check
+[2019.10.22-17.11.38:273][319]LightingResults: New page: Lighting Build
+[2019.10.22-17.11.38:294][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.22-17.11.38:369][319]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-17.11.38:392][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.22-17.11.38:409][319]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-17.11.38:409][319]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2019.10.22-17.11.38:409][319]LogFileHelpers: Loading map 'testmap' took 0.139
+[2019.10.22-17.11.39:842][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.11.39:916][484]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-17.11.39:931][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/testmap.testmap_C' with ClassGeneratedBy '/Game/testmap.testmap:PersistentLevel.testmap'
+[2019.10.22-17.11.39:931][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-17.11.39:935][484]PIE: New page: PIE session: testmap (Oct 22, 2019, 3:11:39 AM)
+[2019.10.22-17.11.39:947][484]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.22-17.11.39:961][484]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_testmap
+[2019.10.22-17.11.39:962][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2019.10.22-17.11.39:963][484]LogAIModule: Creating AISystem for world testmap
+[2019.10.22-17.11.39:963][484]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2019.10.22-17.11.39:963][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testmap.testmap to /Game/UEDPIE_0_testmap.testmap (0.002323s)
+[2019.10.22-17.11.39:982][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.22-17.11.39:994][484]LogInit: XAudio2 using 'Speakers (3- Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.22-17.11.40:002][484]LogInit: FAudioDevice initialized.
+[2019.10.22-17.11.40:019][484]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.22-17.11.40:053][484]LogWorld: Bringing World /Game/UEDPIE_0_testmap.testmap up for play (max tick rate 0) at 2019.10.22-10.11.40
+[2019.10.22-17.11.40:053][484]LogWorld: Bringing up level for play took: 0.000891
+[2019.10.22-17.11.40:053][484]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.10.22-17.11.40:144][484]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.22-17.11.40:180][484]PIE: Play in editor start time for /Game/UEDPIE_0_testmap 0.088
+[2019.10.22-17.11.40:180][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/testmap.testmap_C' with ClassGeneratedBy '/Game/testmap.testmap:PersistentLevel.testmap'
+[2019.10.22-17.12.10:893][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/testmap.testmap_C' with ClassGeneratedBy '/Game/testmap.testmap:PersistentLevel.testmap'
+[2019.10.22-17.12.10:893][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.12.10:893][128]LogWorld: BeginTearingDown for /Game/UEDPIE_0_testmap
+[2019.10.22-17.12.10:893][128]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.12.10:903][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-17.12.10:904][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/testmap.testmap:PersistentLevel' has LevelScriptBlueprint '/Game/testmap.testmap:PersistentLevel.testmap' with GeneratedClass '/Game/testmap.testmap_C' with ClassGeneratedBy '/Game/testmap.testmap:PersistentLevel.testmap'
+[2019.10.22-17.12.10:927][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.12.10:929][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.22-17.12.10:992][135]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.10.22-17.12.14:658][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-17.12.30:039][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.10.22-17.12.31:240][557]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.12.31:271][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.22-17.12.44:625][ 61]LogEditorViewport: Clicking Background
+[2019.10.22-17.12.50:047][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.12.50:167][568]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.12.50:198][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.22-17.13.07:946][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.13.27:201][916]LogEditorViewport: Clicking Background
+[2019.10.22-17.13.27:584][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.13.39:755][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.13.41:848][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.13.41:940][666]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.13.41:969][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.22-17.13.43:653][666]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.13.43:656][666]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.10.22-17.13.43:656][666]PIE: Warning: PIE failed because map save was canceled
+[2019.10.22-17.13.45:690][897]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.13.45:693][897]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.13.46:300][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.13.46:329][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.22-17.13.46:552][969]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap1447E5C5474AB8B3EA6A209F6923E181.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/testmap.umap'
+[2019.10.22-17.13.46:588][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-17.13.46:666][969]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltData664472CA41CA3386C223768F526BB689.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/testmap_BuiltData.uasset'
+[2019.10.22-17.13.47:888][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.13.47:980][111]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.13.48:009][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.10.22-17.14.52:158][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (testmap001_Plane_008)
+[2019.10.22-17.14.56:517][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.14.59:467][394]LogEditorViewport: Clicking Background
+[2019.10.22-17.15.03:282][693]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.18.35:602][315]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.18.42:843][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.18.45:612][979]Cmd: SELECT NONE
+[2019.10.22-17.18.56:405][232]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.18.56:865][232]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.22-17.18.57:946][232]LogSlate: Took 0.004608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.22-17.18.58:223][233]LogSlate: Took 0.000771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-17.19.27:903][298]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.19.27:906][298]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.19.27:921][298]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.19.31:971][763]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.19.34:304][962]LogRenderer: Reallocating scene render targets to support 1092x528 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-17.19.43:643][ 28]LogRenderer: Reallocating scene render targets to support 1092x532 Format 10 NumSamples 1 (Frame:1083).
+[2019.10.22-17.19.43:666][ 28]LogRenderer: Reallocating scene render targets to support 1092x536 Format 10 NumSamples 1 (Frame:1084).
+[2019.10.22-17.19.43:687][ 28]LogRenderer: Reallocating scene render targets to support 1092x544 Format 10 NumSamples 1 (Frame:1085).
+[2019.10.22-17.19.43:722][ 28]LogRenderer: Reallocating scene render targets to support 1092x552 Format 10 NumSamples 1 (Frame:1086).
+[2019.10.22-17.19.43:732][ 28]LogRenderer: Reallocating scene render targets to support 1092x560 Format 10 NumSamples 1 (Frame:1087).
+[2019.10.22-17.19.43:800][ 28]LogRenderer: Reallocating scene render targets to support 1092x564 Format 10 NumSamples 1 (Frame:1091).
+[2019.10.22-17.19.43:832][ 28]LogRenderer: Reallocating scene render targets to support 1092x568 Format 10 NumSamples 1 (Frame:1093).
+[2019.10.22-17.19.43:857][ 28]LogRenderer: Reallocating scene render targets to support 1092x572 Format 10 NumSamples 1 (Frame:1094).
+[2019.10.22-17.19.43:879][ 28]LogRenderer: Reallocating scene render targets to support 1092x580 Format 10 NumSamples 1 (Frame:1095).
+[2019.10.22-17.19.43:903][ 28]LogRenderer: Reallocating scene render targets to support 1092x588 Format 10 NumSamples 1 (Frame:1096).
+[2019.10.22-17.19.43:927][ 28]LogRenderer: Reallocating scene render targets to support 1092x592 Format 10 NumSamples 1 (Frame:1097).
+[2019.10.22-17.19.43:949][ 28]LogRenderer: Reallocating scene render targets to support 1092x596 Format 10 NumSamples 1 (Frame:1098).
+[2019.10.22-17.19.43:971][ 28]LogRenderer: Reallocating scene render targets to support 1092x600 Format 10 NumSamples 1 (Frame:1099).
+[2019.10.22-17.19.44:056][ 28]LogRenderer: Reallocating scene render targets to support 1092x604 Format 10 NumSamples 1 (Frame:1104).
+[2019.10.22-17.19.44:079][ 28]LogRenderer: Reallocating scene render targets to support 1092x608 Format 10 NumSamples 1 (Frame:1105).
+[2019.10.22-17.19.52:275][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-17.20.20:908][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.22-17.20.20:908][947]LogMetaData: Removing '/Game/Levels/testmap.testmap_C' ref from Metadata '/Game/testmap.PackageMetaData'
+[2019.10.22-17.20.20:908][947]LogMetaData: Removing '/Game/Levels/testmap.testmap:PersistentLevel.testmap.EventGraph.K2Node_Event_0' ref from Metadata '/Game/testmap.PackageMetaData'
+[2019.10.22-17.20.20:908][947]LogMetaData: Removing '/Game/Levels/testmap.testmap:PersistentLevel.testmap.EventGraph.K2Node_Event_1' ref from Metadata '/Game/testmap.PackageMetaData'
+[2019.10.22-17.20.20:908][947]LogMetaData: Removing '/Game/Levels/testmap.SKEL_testmap_C' ref from Metadata '/Game/testmap.PackageMetaData'
+[2019.10.22-17.20.20:926][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-17.20.20:987][947]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltData216D465B419F85498F2445B0C9408497.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset'
+[2019.10.22-17.20.20:991][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.20.21:021][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.22-17.20.21:154][947]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap31C7E67E449832E7CA08F9ABA67B614B.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.20.21:177][947]LogFileHelpers: Saving map 'testmap' took 0.186
+[2019.10.22-17.20.21:384][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.22-17.20.21:415][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.22-17.20.21:446][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.22-17.20.21:473][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.22-17.20.34:640][251]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\vsmith1868\Downloads\short870.fbx)
+[2019.10.22-17.20.34:740][251]LogFbx: Loading FBX Scene from C:\Users\vsmith1868\Downloads\short870.fbx
+[2019.10.22-17.20.34:827][251]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.22-17.20.36:525][251]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.22-17.20.36:581][251]LogFbx: Display: Triangulating static mesh Cube.007
+[2019.10.22-17.20.36:676][251]LogStaticMesh: Building static mesh short870...
+[2019.10.22-17.20.36:759][251]LogStaticMesh: Built static mesh [0.08s] /Game/short870.short870
+[2019.10.22-17.20.36:782][251]LogStaticMesh: Warning: short870 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.22-17.20.36:782][251]LogStaticMesh: Warning: short870 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.22-17.20.36:829][251]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.22-17.20.36:829][251]FBXImport: Warning: short870 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.22-17.20.36:829][251]FBXImport: Warning: short870 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.22-17.20.38:929][461]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.20.38:932][461]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.21.18:116][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-17.21.59:614][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.22.09:491][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.22.14:854][228]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.22.15:007][228]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacterDBBE276945ED118E8CE656AD209EF5D5.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.22.15:833][320]LogEditorViewport: Clicking Background
+[2019.10.22-17.22.17:670][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.22.17:729][537]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.22.17:862][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.10.22-17.22.20:511][537]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.22.20:535][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/short870" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/short870.uasset" SILENT=true
+[2019.10.22-17.22.20:567][537]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/short870552CDBA141ECF2BC839D3D87EB8913F4.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/short870.uasset'
+[2019.10.22-17.23.03:449][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.23.28:933][580]LogEditorTransaction: Undo Modify Component(s)
+[2019.10.22-17.23.29:180][604]LogEditorTransaction: Undo Modify Component Location
+[2019.10.22-17.23.29:185][604]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.FirstPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.10.22-17.23.33:166][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.23.46:930][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.24.02:565][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.24.09:454][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.24.23:651][246]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.24.23:714][246]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter4AC1602C4149E6229DF06FA747F1F068.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.24.25:248][419]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.24.25:298][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.22-17.25.09:150][912]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacterC1E5D0154D6286596BBF45A91589CE8F.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.25.10:199][ 36]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.25.10:203][ 36]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.25.10:209][ 36]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.25.14:162][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.22-17.25.18:601][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.26.01:138][ 78]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.26.01:142][ 78]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.26.01:159][ 78]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.26.02:511][235]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.26.02:581][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.10.22-17.26.45:058][ 23]Cmd: DELETE
+[2019.10.22-17.26.45:058][ 23]Cmd: ACTOR DELETE
+[2019.10.22-17.26.45:127][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.22-17.26.45:128][ 23]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2019.10.22-17.27.04:726][367]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.27.04:759][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.22-17.27.07:376][367]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.27.07:379][367]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.10.22-17.27.07:379][367]PIE: Warning: PIE failed because map save was canceled
+[2019.10.22-17.27.08:858][543]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.27.08:861][543]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.27.13:673][120]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.27.13:707][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.10.22-17.27.15:049][120]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.27.15:061][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.27.15:088][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.22-17.27.15:224][120]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap0FFD5DD44C2C475EA5478DA3F7892A37.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.27.15:247][120]LogFileHelpers: Saving map 'testmap' took 0.187
+[2019.10.22-17.27.53:439][480]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-17.27.54:674][627]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.27.54:710][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.22-17.27.56:548][627]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.27.56:561][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.27.56:587][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.22-17.27.56:719][627]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmapD1A225BF4F4EDD23802D5F80B205C669.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.27.56:739][627]LogFileHelpers: Saving map 'testmap' took 0.178
+[2019.10.22-17.28.25:507][655]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.22-17.28.45:003][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.28.45:069][988]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.28.45:104][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.10.22-17.28.46:412][988]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.29.03:983][473]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.29.04:016][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.22-17.29.05:558][473]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.29.05:570][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.29.05:594][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.22-17.29.05:726][473]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap8A514BCA42BF22941356BD86C30D812E.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.29.05:747][473]LogFileHelpers: Saving map 'testmap' took 0.178
+[2019.10.22-17.29.22:198][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.29.22:225][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.22-17.29.22:356][974]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmapD55096234FD67010DDD0DF9AE10D6167.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.29.22:377][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-17.29.22:442][974]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltDataC55F05694CE3B38D38BCFD90CEE89E5C.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset'
+[2019.10.22-17.29.23:083][ 45]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.29.23:119][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.10.22-17.29.56:056][930]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.29.56:060][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.29.56:087][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.22-17.29.56:217][930]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap87FFE22E4ABB40C86B0009A37DC2CD93.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.29.56:239][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-17.29.56:296][930]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltData678862BF42DE9576A759FE8DA3899775.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset'
+[2019.10.22-17.30.11:686][364]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-17.30.15:012][718]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.30.46:853][643]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter762558484E8398426E3357848AFC09DE.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.30.48:271][773]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.30.48:310][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.22-17.31.43:655][271]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter5C71BF2645609D26E148BA85433F1D4C.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.32.36:357][ 80]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.32.36:360][ 80]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.32.36:377][ 80]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.32.37:423][189]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.22-17.32.43:388][871]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.32.43:392][871]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.32.43:407][871]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.32.44:129][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.22-17.32.50:508][674]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.32.50:511][674]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.32.50:519][674]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.32.51:597][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.22-17.33.00:341][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.33.25:352][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.33.32:729][799]LogAssetTools: Warning: Failed to import 'C:\Users\vsmith1868\Downloads\bartlo.jfif'. Unknown extension 'jfif'.
+[2019.10.22-17.34.21:817][290]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\vsmith1868\Pictures\bartlo.png)
+[2019.10.22-17.34.21:851][290]LogTexture: Display: Building textures: bartlo (BGRA8, 201X251)
+[2019.10.22-17.34.33:275][158]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:3043).
+[2019.10.22-17.34.44:989][220]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2019.10.22-17.35.08:886][805]LogMaterial: Display: Missing cached shader map for material bartlo_Mat, compiling. 
+[2019.10.22-17.35.08:980][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.22-17.35.08:980][806]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.22-17.35.08:980][806]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.22-17.35.08:980][806]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.22-17.35.16:430][416]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.35.30:217][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.35.30:292][446]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-17.35.30:295][446]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-17.35.30:311][446]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.35.31:666][603]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.35.31:752][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.10.22-17.35.33:238][603]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.35.33:253][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bartlo" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/bartlo.uasset" SILENT=true
+[2019.10.22-17.35.33:271][603]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/bartloE045DECB4A4E540889A5B3BF3373D298.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/bartlo.uasset'
+[2019.10.22-17.35.33:290][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bartlo_Mat" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/bartlo_Mat.uasset" SILENT=true
+[2019.10.22-17.35.33:303][603]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/bartlo_Mat213183864069CAB26C51D8B427A5BE87.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/bartlo_Mat.uasset'
+[2019.10.22-17.35.33:342][603]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonProjectile803BB04349B798E19DA155A9AB21852E.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.22-17.36.16:742][391]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.22-17.36.37:119][444]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.37.41:710][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-17.38.11:567][707]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonProjectile423FB0ED46C5787BB314F08E9CB0C665.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.22-17.38.13:095][876]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.38.13:163][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.22-17.40.20:061][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.22-17.40.44:204][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.40.47:502][115]LogEditorTransaction: Undo Modify Component Scale
+[2019.10.22-17.40.47:898][157]LogEditorTransaction: Undo Modify Component Scale
+[2019.10.22-17.40.48:181][188]LogEditorTransaction: Undo Modify Component Scale
+[2019.10.22-17.40.48:509][226]LogEditorTransaction: Undo Edit Initial Life Span
+[2019.10.22-17.40.48:783][257]LogEditorTransaction: Undo Edit Initial Life Span
+[2019.10.22-17.40.49:044][287]LogEditorTransaction: Undo Edit Initial Life Span
+[2019.10.22-17.40.49:315][318]LogEditorTransaction: Undo Replace component used material
+[2019.10.22-17.40.49:556][345]LogEditorTransaction: Undo Edit Jump Max Count
+[2019.10.22-17.40.49:860][378]LogEditorTransaction: Undo Edit Jump Max Count
+[2019.10.22-17.40.49:865][378]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.10.22-17.40.53:476][806]LogEditorTransaction: Redo Edit Jump Max Count
+[2019.10.22-17.40.54:309][904]LogEditorTransaction: Redo Edit Jump Max Count
+[2019.10.22-17.40.54:520][928]LogEditorTransaction: Undo Edit Jump Max Count
+[2019.10.22-17.40.54:759][955]LogEditorTransaction: Undo Edit Jump Max Count
+[2019.10.22-17.40.54:763][955]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.10.22-17.41.00:366][608]LogEditorTransaction: Redo Edit Jump Max Count
+[2019.10.22-17.41.01:001][681]LogEditorTransaction: Undo Edit Jump Max Count
+[2019.10.22-17.41.01:006][681]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0.CollisionCylinder) Component already registered.
+[2019.10.22-17.41.02:328][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.41.25:917][514]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.41.25:921][514]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.41.25:931][514]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.41.25:978][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.22-17.41.25:978][514]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.41.26:028][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.22-17.41.26:028][514]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.41.26:883][611]MapCheck: New page: Map Check
+[2019.10.22-17.41.26:916][611]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.22-17.41.26:916][611]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.22-17.41.27:054][611]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=false
+[2019.10.22-17.41.27:098][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.22-17.41.27:136][611]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.22-17.41.29:516][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.22-17.41.29:516][611]TextureStreamingBuild: Display: Compiling optional shaders took 2.403 seconds.
+[2019.10.22-17.41.29:545][611]LogLevel: Display: Export Material TexCoord Scales took 0.029 seconds.
+[2019.10.22-17.41.29:574][611]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2019.10.22-17.41.29:599][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.22-17.41.29:612][611]LightingResults: New page: Lighting Build - Oct 22, 2019, 3:41:29 AM
+[2019.10.22-17.41.29:686][611]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.22-17.41.29:851][611]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.22-17.41.29:868][611]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.22-17.41.30:408][611]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.22-17.41.30:409][611]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12004
+[2019.10.22-17.41.32:892][611]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.22-17.41.32:907][611]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.22-17.41.32:907][611]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.22-17.41.32:907][611]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.22-17.41.32:907][611]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.22-17.41.32:907][611]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.22-17.41.33:065][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.10.22-17.41.40:862][611]Job is a success!
+[2019.10.22-17.41.41:040][611]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.112s
+[2019.10.22-17.41.41:040][611]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.22-17.41.41:040][611]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2019.10.22-17.41.41:041][611]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.22-17.41.41:041][611]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2019.10.22-17.41.41:041][611]LogVolumetricLightmapImport:          1: 23.9% covering 13.5% of volume
+[2019.10.22-17.41.41:041][611]LogVolumetricLightmapImport:          2: 73.4% covering 0.6% of volume
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 128X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2019.10.22-17.41.41:359][611]Lightmass on IT00-177084: 7.22 sec total, 248 ms importing, 54 ms setup, 613 ms photons, 6.24 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 43.6 sec total, 2.21 sec processing.
+[2019.10.22-17.41.41:359][611]LogStaticLightingSystem: testmap_BuiltData storing lightmap data for 11 meshes in 11 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.22-17.41.41:397][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.10.22-17.41.41:399][611]LogStaticLightingSystem: Illumination: 11.7 sec (105 ms encoding lightmaps, 98 ms encoding shadowmaps)
+[2019.10.22-17.41.41:399][611]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 22 textures
+[2019.10.22-17.41.41:399][611]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 11 textures
+[2019.10.22-17.41.41:902][611]DumpUnbuiltLightIteractions
+[2019.10.22-17.41.41:902][611]Lights with unbuilt interactions: 0
+[2019.10.22-17.41.41:902][611]
+[2019.10.22-17.41.41:902][611]Primitives with unbuilt interactions: 0
+[2019.10.22-17.41.41:920][611]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.22-17.41.41:920][611]MapCheck: New page: testmap - Oct 22, 2019, 3:41:41 AM
+[2019.10.22-17.41.41:938][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 19.082ms to complete.
+[2019.10.22-17.41.41:947][611]LogEditorBuildUtils: Build time 0:15
+[2019.10.22-17.41.41:966][612]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.22-17.41.41:966][612]MapCheck: New page: testmap - Oct 22, 2019, 3:41:41 AM
+[2019.10.22-17.41.41:966][612]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.387ms to complete.
+[2019.10.22-17.41.45:041][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.22-17.41.45:179][621]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_Auto18815A64548FB0D7322B44ABE3258D1FB.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Autosaves/Game/Levels/testmap_Auto1.umap'
+[2019.10.22-17.41.45:181][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/testmap' took 0.163
+[2019.10.22-17.41.45:181][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.163
+[2019.10.22-17.41.45:183][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.22-17.41.45:214][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.22-17.41.45:214][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.22-17.41.45:270][621]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter_Auto11F5F2B1B41562E874075FA979BBF0089.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.10.22-17.41.45:271][621]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.10.22-17.42.44:292][947]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.42.44:296][947]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.43.05:409][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.43.16:578][767]LogMaterial: Display: Missing cached shader map for material UE4_Mannequin_MAT_MASKA_Mat, compiling. 
+[2019.10.22-17.43.16:590][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.22-17.43.16:590][767]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.10.22-17.43.16:590][767]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.22-17.43.16:590][767]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.22-17.43.16:599][767]LogMaterial: Display: Material /Game/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA_Mat.UE4_Mannequin_MAT_MASKA_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.10.22-17.43.16:602][767]LogMaterial: Display: Missing cached shader map for material UE4_Mannequin_MAT_MASKA_Mat, compiling. 
+[2019.10.22-17.43.18:075][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.10.22-17.43.18:258][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.10.22-17.43.18:603][973]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.10.22-17.43.19:180][ 36]Cmd: TRANSACTION UNDO
+[2019.10.22-17.43.19:180][ 36]LogEditorTransaction: Undo Create Actors
+[2019.10.22-17.43.19:437][ 58]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.10.22-17.43.20:097][128]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.22-17.43.20:738][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.22-17.43.20:979][229]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.22-17.43.21:300][266]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.22-17.43.21:428][281]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.22-17.43.21:718][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.43.23:885][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.22-17.43.25:311][571]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.22-17.43.25:366][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.22-17.43.42:807][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.45.24:791][910]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.46.59:451][574]Cmd: TRANSACTION UNDO
+[2019.10.22-17.46.59:451][574]LogEditorTransaction: Undo Add New Event Dispatcher
+[2019.10.22-17.47.32:063][791]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter1C16AFF44A1666FB18F64B8E4ABAB1E2.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.47.33:021][895]MapCheck: New page: Map Check
+[2019.10.22-17.47.33:033][895]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.22-17.47.33:033][895]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.22-17.47.33:151][895]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=false
+[2019.10.22-17.47.33:183][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.22-17.47.33:198][895]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.22-17.47.35:402][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.22-17.47.35:402][895]TextureStreamingBuild: Display: Compiling optional shaders took 2.208 seconds.
+[2019.10.22-17.47.35:404][895]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2019.10.22-17.47.35:419][895]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2019.10.22-17.47.35:447][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.22-17.47.35:447][895]LightingResults: New page: Lighting Build - Oct 22, 2019, 3:47:35 AM
+[2019.10.22-17.47.35:452][895]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.22-17.47.35:454][895]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.22-17.47.35:454][895]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.22-17.47.35:456][895]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.22-17.47.35:456][895]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12004
+[2019.10.22-17.47.40:018][895]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.22-17.47.40:018][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.22-17.47.40:018][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.22-17.47.40:018][895]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.22-17.47.40:018][895]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.22-17.47.40:018][895]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.22-17.47.40:121][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.22-17.47.47:549][895]Job is a success!
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.088s
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:          1: 23.9% covering 13.5% of volume
+[2019.10.22-17.47.47:689][895]LogVolumetricLightmapImport:          2: 73.4% covering 0.6% of volume
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:884][895]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2019.10.22-17.47.47:885][895]Lightmass on IT00-177084: 7.03 sec total, 213 ms importing, 51 ms setup, 622 ms photons, 6.10 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 42.7 sec total, 2.10 sec processing.
+[2019.10.22-17.47.47:885][895]LogStaticLightingSystem: testmap_BuiltData storing lightmap data for 11 meshes in 11 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.22-17.47.47:920][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.10.22-17.47.47:923][895]LogStaticLightingSystem: Illumination: 12.4 sec (77 ms encoding lightmaps, 83 ms encoding shadowmaps)
+[2019.10.22-17.47.47:923][895]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 22 textures
+[2019.10.22-17.47.47:923][895]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 11 textures
+[2019.10.22-17.47.53:027][895]DumpUnbuiltLightIteractions
+[2019.10.22-17.47.53:028][895]Lights with unbuilt interactions: 0
+[2019.10.22-17.47.53:028][895]
+[2019.10.22-17.47.53:028][895]Primitives with unbuilt interactions: 0
+[2019.10.22-17.47.53:041][895]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.22-17.47.53:041][895]MapCheck: New page: testmap - Oct 22, 2019, 3:47:53 AM
+[2019.10.22-17.47.53:041][895]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2019.10.22-17.47.53:043][895]LogEditorBuildUtils: Build time 0:20
+[2019.10.22-17.47.53:062][896]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.22-17.47.53:063][896]MapCheck: New page: testmap - Oct 22, 2019, 3:47:53 AM
+[2019.10.22-17.47.53:063][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.261ms to complete.
+[2019.10.22-17.47.56:225][197]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.47.56:229][197]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.47.58:284][426]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.47.58:319][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.22-17.48.01:160][426]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.48.01:163][426]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.10.22-17.48.01:163][426]PIE: Warning: PIE failed because map save was canceled
+[2019.10.22-17.48.02:623][578]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.48.02:626][578]LogSlate: Window 'Message Log' being destroyed
+[2019.10.22-17.48.03:803][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.48.03:832][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.22-17.48.03:970][713]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmapAC690F0549A21955C9E5289306EA398E.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.48.03:992][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-17.48.04:063][713]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltData96A4157B49EDC5A702F8229C1228F818.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset'
+[2019.10.22-17.48.04:545][755]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.48.04:582][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.10.22-17.49.17:125][724]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Physics/PhysicsBodies/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips#physics
+[2019.10.22-17.50.49:275][977]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter4243650D4DFEE18FCA007993A0E7841B.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.50.50:013][ 55]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.50.50:052][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.22-17.52.01:620][549]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacter2A88DB2A4DA262B4F75D008F7F7F4D51.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.52.02:906][681]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.52.02:943][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.22-17.55.42:691][241]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.55.42:693][241]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.55.42:701][241]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.55.43:679][339]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.10.22-17.55.49:118][960]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.55.49:121][960]LogSlate: Window 'FirstPersonGameMode' being destroyed
+[2019.10.22-17.55.49:122][960]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.55.49:967][ 32]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2019.10.22-17.55.57:578][886]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.55.57:581][886]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2019.10.22-17.55.57:597][886]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.56.06:430][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.56.41:671][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-17.56.41:743][930]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-17.56.45:533][198]Cmd: DELETE
+[2019.10.22-17.56.45:533][198]Cmd: ACTOR DELETE
+[2019.10.22-17.56.45:582][198]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2019.10.22-17.56.45:633][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.10.22-17.56.45:634][198]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2019.10.22-17.57.49:579][819]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.22-17.58.08:092][807]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.58.08:157][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2019.10.22-17.58.10:548][807]LogSlate: Window 'Save Content' being destroyed
+[2019.10.22-17.58.10:627][807]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonCharacterEB1187A742CD88628D3E22AA100D24B5.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.22-17.58.10:631][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-17.58.10:666][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.22-17.58.10:832][807]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmapE3813C534A2ED655EF2A388805D2F1E9.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-17.58.10:855][807]LogFileHelpers: Saving map 'testmap' took 0.224
+[2019.10.22-17.58.13:635][982]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.58.13:639][982]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-17.58.13:639][982]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-17.58.57:569][169]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.58.57:630][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.10.22-17.59.44:860][827]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-17.59.44:916][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.22-18.00.00:264][553]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-18.00.00:300][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.22-18.01.04:042][168]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.22-18.01.25:532][ 84]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonProjectile3526FC5C49B17654596B11B51B3BB16F.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.22-18.01.42:558][674]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-18.01.42:561][674]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-18.01.42:573][674]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.01.45:167][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-18.01.50:610][296]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-18.01.50:613][296]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-18.01.50:614][296]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.01.53:126][584]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-18.01.53:164][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.22-18.06.29:716][769]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.22-18.06.29:720][769]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.22-18.06.34:039][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.06.34:190][271]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2019.10.22-18.06.45:461][523]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonProjectile9C46FA8644AE1CB75FD40FA2FDB7ACBB.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.22-18.06.53:272][294]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/FirstPersonProjectileBD738F154E99654BB3ACFBA8C1300FF7.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2019.10.22-18.06.54:114][388]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-18.06.54:117][388]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2019.10.22-18.06.54:124][388]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.06.57:668][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.07.07:845][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.07.08:007][968]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/short870.short870
+[2019.10.22-18.08.23:831][158]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-18.08.23:845][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/short870" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/short870.uasset" SILENT=true
+[2019.10.22-18.08.23:891][158]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/short870098C9B264E443D9EA097D5B9797239E2.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/short870.uasset'
+[2019.10.22-18.08.24:709][254]LogSlate: Window 'short870' being destroyed
+[2019.10.22-18.08.24:712][254]LogSlate: Window 'short870' being destroyed
+[2019.10.22-18.08.24:724][254]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.08.27:814][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.08.30:811][952]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.10.22-18.08.33:547][193]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-18.08.33:551][193]LogSlate: Window 'FirstPersonCharacter' being destroyed
+[2019.10.22-18.08.33:551][193]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.08.34:522][303]LogTemp: Repeating last play command: Standalone Game
+[2019.10.22-18.08.34:561][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.22-18.09.52:174][802]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.22-18.09.52:178][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-18.09.52:205][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.22-18.09.52:368][802]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap5E1FDB4D47E65B4BA53350B99A499DAA.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap.umap'
+[2019.10.22-18.09.52:395][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/testmap_BuiltData" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset" SILENT=true
+[2019.10.22-18.09.52:474][802]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/testmap_BuiltData7FA161944FAC866582B3D6BD4B4C8526.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/Levels/testmap_BuiltData.uasset'
+[2019.10.22-18.11.50:956][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.12.03:778][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.12.06:236][519]Cmd: TRANSACTION UNDO
+[2019.10.22-18.12.06:236][519]LogEditorTransaction: Undo Create Actors
+[2019.10.22-18.12.08:572][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.14.29:535][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.15.06:270][762]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.22-18.15.23:186][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.bp_zombie:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.SKEL_bp_zombie_C' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.bp_zombie_C' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.bp_zombie:EventGraph.K2Node_Event_0' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.bp_zombie:EventGraph.K2Node_Event_1' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:187][777]LogMetaData: Removing '/Game/EnemyBluprints/bp_zombie.bp_zombie:EventGraph.K2Node_Event_2' ref from Metadata '/Game/EnemyBluprints/zombie.PackageMetaData'
+[2019.10.22-18.15.23:200][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBluprints/bp_zombie" FILE="../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/EnemyBluprints/bp_zombie.uasset" SILENT=true
+[2019.10.22-18.15.23:717][777]LogSavePackage: Moving '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/bp_zombie367E8B854D565DA473F3DD9278B5A619.tmp' to '../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Content/EnemyBluprints/bp_zombie.uasset'
+[2019.10.22-18.15.23:845][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.22-18.15.23:874][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.10.22-18.15.23:901][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.22-18.15.24:784][879]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EnemyBluprints/bp_zombie.bp_zombie
+[2019.10.22-18.15.30:795][249]LogSlate: Window 'bp_zombie' being destroyed
+[2019.10.22-18.15.30:798][249]LogSlate: Window 'bp_zombie' being destroyed
+[2019.10.22-18.15.30:809][249]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2019.10.22-18.16.04:841][572]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2019.10.22-18.16.09:442][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.17.10:653][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.17.14:710][767]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.22-18.17.31:884][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.17.40:937][898]Cmd: TRANSACTION UNDO
+[2019.10.22-18.17.40:937][898]LogEditorTransaction: Undo Edit Z
+[2019.10.22-18.17.47:687][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.17.49:987][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.17.51:992][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.17.54:036][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.17.55:823][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.17.57:485][863]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-18.18.01:965][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.18.05:342][776]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (6543808) to: (1048576)
+[2019.10.22-18.18.05:788][777]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (12116512) to: (1048576)
+[2019.10.22-18.18.07:012][803]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (12116512) to: (1048576)
+[2019.10.22-18.18.07:933][804]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (1073741824) to: (1048576)
