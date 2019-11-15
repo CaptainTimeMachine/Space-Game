@@ -1,0 +1,843 @@
+﻿Log file open, 11/15/19 10:55:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Space_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.107817
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  /Game/Levels/testmap -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: D:/Program Files/Unreal Engine 4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.15-18.55.01:307][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.15-18.55.01:308][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:308][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-18.55.01:311][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-18.55.01:312][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:312][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-18.55.01:312][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-18.55.01:312][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-18.55.01:312][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.15-18.55.01:315][  0]LogHAL: Display: Platform has ~ 8 GB [8538304512 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.15-18.55.01:315][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.15-18.55.01:315][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-18.55.01:315][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.15-18.55.01:316][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-18.55.01:316][  0]LogInit: Computer: IT00-177084
+[2019.11.15-18.55.01:316][  0]LogInit: User: vsmith1868
+[2019.11.15-18.55.01:316][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.15-18.55.01:316][  0]LogInit: High frequency timer resolution =3.905119 MHz
+[2019.11.15-18.55.01:316][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.11.15-18.55.01:316][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.15-18.55.01:316][  0]LogMemory: Process Physical Memory: 100.46 MB used, 100.46 MB peak
+[2019.11.15-18.55.01:316][  0]LogMemory: Process Virtual Memory: 100.32 MB used, 100.32 MB peak
+[2019.11.15-18.55.01:316][  0]LogMemory: Physical Memory: 5482.78 MB used,  2659.98 MB free, 8142.76 MB total
+[2019.11.15-18.55.01:316][  0]LogMemory: Virtual Memory: 4679.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.15-18.55.01:319][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.15-18.55.01:343][  0]LogInit: Using OS detected language (en-US).
+[2019.11.15-18.55.01:343][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.15-18.55.01:343][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.15-18.55.01:577][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.15-18.55.01:577][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.15-18.55.01:584][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-18.55.01:584][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.15-18.55.01:626][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.11.15-18.55.01:626][  0]LogD3D11RHI:       2016/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.15-18.55.01:628][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.15-18.55.01:628][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.15-18.55.01:628][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.15-18.55.01:634][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.15-18.55.01:634][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.15-18.55.01:634][  0]LogWindows: EnumDisplayDevices:
+[2019.11.15-18.55.01:634][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.11.15-18.55.01:635][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-18.55.01:635][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-18.55.01:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-18.55.01:636][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.15-18.55.01:636][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.11.15-18.55.01:636][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.11.15-18.55.01:636][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.11.15-18.55.01:636][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.11.15-18.55.01:662][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.15-18.55.01:675][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.15-18.55.01:975][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.15-18.55.01:981][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.15-18.55.01:988][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.15-18.55.01:992][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.15-18.55.01:992][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.15-18.55.01:999][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.15-18.55.02:042][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Intermediate/Shaders/WorkingDirectory/3844/).
+[2019.11.15-18.55.02:042][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vsmith1868/AppData/Local/Temp/UnrealShaderWorkingDir/B217D0794A3E51FF66E99DB233FE7A82/'.
+[2019.11.15-18.55.02:044][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.15-18.55.02:044][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.15-18.55.02:044][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.15-18.55.02:568][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-18.55.02:638][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.15-18.55.02:647][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.15-18.55.02:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-18.55.02:647][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.15-18.55.02:649][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vsmith1868/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.15-18.55.02:649][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.15-18.55.02:649][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.15-18.55.02:668][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.15-18.55.02:670][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.15-18.55.02:670][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.15-18.55.02:757][  0]LogInit: Using OS detected language (en-US).
+[2019.11.15-18.55.02:758][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.15-18.55.02:758][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.11.15-18.55.02:758][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.11.15-18.55.02:758][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.15-18.55.02:758][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.15-18.55.02:759][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2019.11.15-18.55.02:762][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2019.11.15-18.55.02:944][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.000466 seconds
+[2019.11.15-18.55.02:987][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-18.55.03:107][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.15-18.55.03:107][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.15-18.55.03:107][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.15-18.55.03:107][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.15-18.55.03:107][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.15-18.55.03:115][  0]LogNetVersion: Space_Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1558173762)
+[2019.11.15-18.55.03:560][  0]LogMoviePlayer: Initializing movie player
+[2019.11.15-18.55.03:647][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.15-18.55.03:649][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.15-18.55.03:675][  0]SourceControl: Source control is disabled
+[2019.11.15-18.55.03:675][  0]SourceControl: Source control is disabled
+[2019.11.15-18.55.03:676][  0]SourceControl: Source control is disabled
+[2019.11.15-18.55.03:710][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.15-18.55.03:801][  0]LogOcInput: OculusInput pre-init called
+[2019.11.15-18.55.03:810][  0]LogUObjectArray: 48866 objects as part of root set at end of initial load.
+[2019.11.15-18.55.03:810][  0]LogUObjectAllocator: 8609784 out of 0 bytes used by permanent object pool.
+[2019.11.15-18.55.03:810][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.15-18.55.03:861][  0]LogEngine: Initializing Engine...
+[2019.11.15-18.55.03:862][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-18.55.03:863][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.15-18.55.04:020][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.15-18.55.04:032][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.15-18.55.04:046][  0]LogInit: FAudioDevice initialized.
+[2019.11.15-18.55.04:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.15-18.55.04:057][  0]LogInit: Texture streaming: Enabled
+[2019.11.15-18.55.04:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-18.55.04:187][  0]LogInit: Display: Game Engine Initialized.
+[2019.11.15-18.55.04:233][  0]LogInit: Display: Starting Game.
+[2019.11.15-18.55.04:233][  0]LogNet: Browse: /Game/Levels/testmap?Name=Player
+[2019.11.15-18.55.04:233][  0]LogLoad: LoadMap: /Game/Levels/testmap?Name=Player
+[2019.11.15-18.55.04:233][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2019.11.15-18.55.04:234][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-18.55.04:262][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.15-18.55.04:588][  0]LogAIModule: Creating AISystem for world testmap
+[2019.11.15-18.55.04:596][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.15-18.55.04:635][  0]LogWorld: Bringing World /Game/Levels/testmap.testmap up for play (max tick rate 0) at 2019.11.15-10.55.04
+[2019.11.15-18.55.04:637][  0]LogWorld: Bringing up level for play took: 0.040582
+[2019.11.15-18.55.04:645][  0]LogLoad: Took 0.411800 seconds to LoadMap(/Game/Levels/testmap)
+[2019.11.15-18.55.04:670][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.11.15-18.55.04:670][  0]LogLoad: (Engine Initialization) Total time: 4.70 seconds
+[2019.11.15-18.55.04:670][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.15-18.55.04:711][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-18.55.04:713][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.15-18.55.08:769][249]PIE: Warning: FirstPersonProjectile_C_1.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.09:269][280]PIE: Warning: FirstPersonProjectile_C_2.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.09:705][307]PIE: Warning: FirstPersonProjectile_C_3.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.09:769][311]PIE: Warning: FirstPersonProjectile_C_4.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.09:964][323]PIE: Warning: FirstPersonProjectile_C_5.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.09:964][323]PIE: Warning: FirstPersonProjectile_C_6.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:172][336]PIE: Warning: FirstPersonProjectile_C_7.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:188][337]PIE: Warning: FirstPersonProjectile_C_8.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:204][338]PIE: Warning: FirstPersonProjectile_C_9.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:269][342]PIE: Warning: FirstPersonProjectile_C_10.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:463][354]PIE: Warning: FirstPersonProjectile_C_11.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:464][354]PIE: Warning: FirstPersonProjectile_C_12.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:464][354]PIE: Warning: FirstPersonProjectile_C_13.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:672][367]PIE: Warning: FirstPersonProjectile_C_14.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:689][368]PIE: Warning: FirstPersonProjectile_C_15.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:705][369]PIE: Warning: FirstPersonProjectile_C_16.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:769][373]PIE: Warning: FirstPersonProjectile_C_17.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:867][379]PIE: Warning: FirstPersonProjectile_C_18.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:884][380]PIE: Warning: FirstPersonProjectile_C_19.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:964][385]PIE: Warning: FirstPersonProjectile_C_20.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:964][385]PIE: Warning: FirstPersonProjectile_C_21.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.10:965][385]PIE: Warning: FirstPersonProjectile_C_22.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:108][394]PIE: Warning: FirstPersonProjectile_C_23.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:173][398]PIE: Warning: FirstPersonProjectile_C_24.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:189][399]PIE: Warning: FirstPersonProjectile_C_25.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:205][400]PIE: Warning: FirstPersonProjectile_C_26.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:270][404]PIE: Warning: FirstPersonProjectile_C_27.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:284][405]LogCharacterMovement: bp_zombie2_2 is stuck and failed to move! Velocity: X=32.85 Y=-3.45 Z=0.00 Location: X=967.01 Y=-357.98 Z=99.71 Normal: X=-0.20 Y=0.98 Z=-0.01 PenetrationDepth:1.042 Actor:bp_shooter_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2019.11.15-18.55.11:368][410]PIE: Warning: FirstPersonProjectile_C_28.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:385][411]PIE: Warning: FirstPersonProjectile_C_29.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:464][416]PIE: Warning: FirstPersonProjectile_C_30.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:464][416]PIE: Warning: FirstPersonProjectile_C_31.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:465][416]PIE: Warning: FirstPersonProjectile_C_32.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:608][425]PIE: Warning: FirstPersonProjectile_C_33.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:673][429]PIE: Warning: FirstPersonProjectile_C_34.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:688][430]PIE: Warning: FirstPersonProjectile_C_35.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:705][431]PIE: Warning: FirstPersonProjectile_C_36.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:769][435]PIE: Warning: FirstPersonProjectile_C_37.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:867][441]PIE: Warning: FirstPersonProjectile_C_38.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:883][442]PIE: Warning: FirstPersonProjectile_C_39.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:963][447]PIE: Warning: FirstPersonProjectile_C_40.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:963][447]PIE: Warning: FirstPersonProjectile_C_41.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.11:964][447]PIE: Warning: FirstPersonProjectile_C_42.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:108][456]PIE: Warning: FirstPersonProjectile_C_43.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:172][460]PIE: Warning: FirstPersonProjectile_C_44.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:188][461]PIE: Warning: FirstPersonProjectile_C_45.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:205][462]PIE: Warning: FirstPersonProjectile_C_46.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:269][466]PIE: Warning: FirstPersonProjectile_C_47.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:367][472]PIE: Warning: FirstPersonProjectile_C_48.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:383][473]PIE: Warning: FirstPersonProjectile_C_49.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:463][478]PIE: Warning: FirstPersonProjectile_C_51.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:464][478]PIE: Warning: FirstPersonProjectile_C_52.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:465][478]PIE: Warning: FirstPersonProjectile_C_53.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:609][487]PIE: Warning: FirstPersonProjectile_C_55.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:673][491]PIE: Warning: FirstPersonProjectile_C_56.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:690][492]PIE: Warning: FirstPersonProjectile_C_58.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:705][493]PIE: Warning: FirstPersonProjectile_C_59.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:770][497]PIE: Warning: FirstPersonProjectile_C_60.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:868][503]PIE: Warning: FirstPersonProjectile_C_62.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:884][504]PIE: Warning: FirstPersonProjectile_C_63.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:963][509]PIE: Warning: FirstPersonProjectile_C_64.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.12:964][509]PIE: Warning: FirstPersonProjectile_C_65.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.13:109][518]PIE: Warning: FirstPersonProjectile_C_67.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.13:190][523]PIE: Warning: FirstPersonProjectile_C_69.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.13:206][524]PIE: Warning: FirstPersonProjectile_C_70.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.13:271][528]PIE: Warning: FirstPersonProjectile_C_71.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.25:270][272]PIE: Warning: FirstPersonProjectile_C_79.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.25:769][303]PIE: Warning: FirstPersonProjectile_C_80.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.26:269][334]PIE: Warning: FirstPersonProjectile_C_81.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.27:205][392]PIE: Warning: FirstPersonProjectile_C_86.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.27:705][423]PIE: Warning: FirstPersonProjectile_C_90.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.27:769][427]PIE: Warning: FirstPersonProjectile_C_91.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.27:866][433]PIE: Warning: FirstPersonProjectile_C_93.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.27:964][439]PIE: Warning: FirstPersonProjectile_C_94.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:173][452]PIE: Warning: FirstPersonProjectile_C_96.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:189][453]PIE: Warning: FirstPersonProjectile_C_97.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:206][454]PIE: Warning: FirstPersonProjectile_C_98.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:270][458]PIE: Warning: FirstPersonProjectile_C_100.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:367][464]PIE: Warning: FirstPersonProjectile_C_101.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:463][470]PIE: Warning: FirstPersonProjectile_C_103.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:673][483]PIE: Warning: FirstPersonProjectile_C_105.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:705][485]PIE: Warning: FirstPersonProjectile_C_106.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:770][489]PIE: Warning: FirstPersonProjectile_C_107.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:866][495]PIE: Warning: FirstPersonProjectile_C_109.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:883][496]PIE: Warning: FirstPersonProjectile_C_110.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.28:963][501]PIE: Warning: FirstPersonProjectile_C_111.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:108][510]PIE: Warning: FirstPersonProjectile_C_113.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:173][514]PIE: Warning: FirstPersonProjectile_C_115.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:205][516]PIE: Warning: FirstPersonProjectile_C_116.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:270][520]PIE: Warning: FirstPersonProjectile_C_117.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:367][526]PIE: Warning: FirstPersonProjectile_C_119.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:383][527]PIE: Warning: FirstPersonProjectile_C_120.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:464][532]PIE: Warning: FirstPersonProjectile_C_121.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:478][533]LogCharacterMovement: bp_zombie3_5 is stuck and failed to move! Velocity: X=19.16 Y=-26.91 Z=0.00 Location: X=1772.40 Y=-1170.08 Z=144.00 Normal: X=0.77 Y=0.35 Z=-0.53 PenetrationDepth:1.009 Actor:bp_zombie9 Component:knife001 BoneName:None (0 other events since notify)
+[2019.11.15-18.55.29:674][545]PIE: Warning: FirstPersonProjectile_C_123.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:706][547]PIE: Warning: FirstPersonProjectile_C_124.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:770][551]PIE: Warning: FirstPersonProjectile_C_126.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:867][557]PIE: Warning: FirstPersonProjectile_C_127.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.29:964][563]PIE: Warning: FirstPersonProjectile_C_129.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:174][576]PIE: Warning: FirstPersonProjectile_C_131.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:206][578]PIE: Warning: FirstPersonProjectile_C_132.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:271][582]PIE: Warning: FirstPersonProjectile_C_133.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:368][588]PIE: Warning: FirstPersonProjectile_C_135.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:465][594]PIE: Warning: FirstPersonProjectile_C_136.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:674][607]PIE: Warning: FirstPersonProjectile_C_139.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:706][609]PIE: Warning: FirstPersonProjectile_C_140.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:868][619]PIE: Warning: FirstPersonProjectile_C_142.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.30:965][625]PIE: Warning: FirstPersonProjectile_C_143.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:174][638]PIE: Warning: FirstPersonProjectile_C_145.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:206][640]PIE: Warning: FirstPersonProjectile_C_146.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:270][644]PIE: Warning: FirstPersonProjectile_C_147.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:368][650]PIE: Warning: FirstPersonProjectile_C_149.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:465][656]PIE: Warning: FirstPersonProjectile_C_150.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:674][669]PIE: Warning: FirstPersonProjectile_C_152.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:706][671]PIE: Warning: FirstPersonProjectile_C_153.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:771][675]PIE: Warning: FirstPersonProjectile_C_155.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:868][681]PIE: Warning: FirstPersonProjectile_C_156.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.31:965][687]PIE: Warning: FirstPersonProjectile_C_158.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:175][700]PIE: Warning: FirstPersonProjectile_C_160.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:207][702]PIE: Warning: FirstPersonProjectile_C_161.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:272][706]PIE: Warning: FirstPersonProjectile_C_163.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:368][712]PIE: Warning: FirstPersonProjectile_C_164.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:466][718]PIE: Warning: FirstPersonProjectile_C_166.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:675][731]PIE: Warning: FirstPersonProjectile_C_168.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:707][733]PIE: Warning: FirstPersonProjectile_C_169.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:772][737]PIE: Warning: FirstPersonProjectile_C_170.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:868][743]PIE: Warning: FirstPersonProjectile_C_172.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.32:966][749]PIE: Warning: FirstPersonProjectile_C_173.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:173][762]PIE: Warning: FirstPersonProjectile_C_174.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:206][764]PIE: Warning: FirstPersonProjectile_C_175.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:270][768]PIE: Warning: FirstPersonProjectile_C_176.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:367][774]PIE: Warning: FirstPersonProjectile_C_177.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:465][780]PIE: Warning: FirstPersonProjectile_C_178.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:673][793]PIE: Warning: FirstPersonProjectile_C_179.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:706][795]PIE: Warning: FirstPersonProjectile_C_180.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:771][799]PIE: Warning: FirstPersonProjectile_C_181.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:867][805]PIE: Warning: FirstPersonProjectile_C_182.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-18.55.33:897][807]LogWindowsDesktop: Alt-F4 pressed!
+[2019.11.15-18.55.33:906][807]LogSlate: Window 'Space_Game (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.11.15-18.55.33:906][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-18.55.33:910][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-18.55.33:910][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-18.55.33:910][807]LogEngine: All Windows Closed
+[2019.11.15-18.55.33:910][807]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.11.15-18.55.33:916][808]LogWorld: BeginTearingDown for /Game/Levels/testmap
+[2019.11.15-18.55.33:917][808]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-18.55.34:880][808]LogExit: Preparing to exit.
+[2019.11.15-18.55.34:880][808]LogMoviePlayer: Shutting down movie player
+[2019.11.15-18.55.35:677][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-18.55.35:684][808]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.15-18.55.35:690][808]LogExit: Game engine shut down
+[2019.11.15-18.55.35:760][808]LogExit: Object subsystem successfully closed.
+[2019.11.15-18.55.35:779][808]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (408)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module SequenceRecorder (406)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module AutomationController (404)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module AutomationWorker (402)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module Voice (400)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module AIModule (398)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module GameplayDebugger (397)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module AITestSuite (395)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module NavigationSystem (393)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module OculusMR (390)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (388)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (386)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module WebMMedia (384)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (382)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (380)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (378)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (376)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (374)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (372)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module CharacterAI (370)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module SessionServices (368)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (366)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module LiveCoding (364)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module LevelSequence (362)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module PortalServices (354)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module PortalRpc (352)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module MessagingRpc (350)
+[2019.11.15-18.55.35:789][808]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (348)
+[2019.11.15-18.55.35:791][808]LogModuleManager: Shutting down and abandoning module ProfilerService (346)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module TaskGraph (344)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module SteamVRController (342)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module EditableMesh (334)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (332)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module CableComponent (330)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module AudioCapture (328)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (326)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (324)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module AppleImageUtils (322)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module AndroidPermission (320)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (318)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (316)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module MediaCompositing (314)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module ImgMedia (312)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (310)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (308)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (306)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module HTML5Networking (304)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (302)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (301)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module BackChannel (294)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module AutomationUtils (292)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module VariantManagerContent (290)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (288)
+[2019.11.15-18.55.35:869][808]LogModuleManager: Shutting down and abandoning module CryptoKeys (286)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (284)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (282)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (278)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module SourceControl (271)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (268)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (266)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module SignificanceManager (264)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2019.11.15-18.55.35:870][808]LogModuleManager: Shutting down and abandoning module UdpMessaging (252)
+[2019.11.15-18.55.35:971][808]LogModuleManager: Shutting down and abandoning module TcpMessaging (250)
+[2019.11.15-18.55.36:664][808]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (248)
+[2019.11.15-18.55.36:664][808]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (246)
+[2019.11.15-18.55.36:664][808]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (244)
+[2019.11.15-18.55.36:664][808]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (242)
+[2019.11.15-18.55.36:664][808]LogModuleManager: Shutting down and abandoning module MagicLeapController (240)
+[2019.11.15-18.55.36:665][808]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module MagicLeapAR (238)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module AugmentedReality (237)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (230)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module TreeMap (229)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module AnimationSharing (226)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module Paper2D (222)
+[2019.11.15-18.55.36:665][808]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (220)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (218)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (216)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module PacketHandler (214)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module Overlay (206)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module OverlayEditor (205)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module VREditor (202)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module StringTableEditor (200)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (198)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (196)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module FunctionalTesting (194)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (192)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (191)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module UMG (188)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module UMGEditor (187)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module Sequencer (186)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module MessageLog (183)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module SlateReflector (178)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module Slate (176)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (174)
+[2019.11.15-18.55.36:667][808]LogModuleManager: Shutting down and abandoning module EditorStyle (172)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module UnrealEd (170)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module Core (156)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module KismetCompiler (154)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (151)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (150)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (149)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (147)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (145)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module MaterialBaking (141)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (136)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (134)
+[2019.11.15-18.55.36:668][808]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2019.11.15-18.55.36:685][808]LogDerivedDataCache: Shutdown
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.15-18.55.36:685][808]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.15-18.55.36:685][808]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.15-18.55.36:686][808]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.15-18.55.36:686][808]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.15-18.55.36:702][808]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.15-18.55.36:725][808]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.15-18.55.36:726][808]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.15-18.55.36:727][808]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.15-18.55.36:728][808]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.15-18.55.36:729][808]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.15-18.55.36:730][808]LogD3D11RHI: Shutdown
+[2019.11.15-18.55.36:730][808]LogD3D11RHI: CleanupD3DDevice
+[2019.11.15-18.55.36:730][808]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-18.55.36:730][808]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-18.55.36:730][808]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-18.55.36:791][808]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.15-18.55.36:796][808]LogExit: Exiting.
+[2019.11.15-18.55.36:820][808]Log file closed, 11/15/19 10:55:36

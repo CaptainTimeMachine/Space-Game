@@ -1,0 +1,1145 @@
+﻿Log file open, 11/15/19 11:14:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Space_Game
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.076490
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  /Game/Levels/testmap -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: D:/Program Files/Unreal Engine 4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:032][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.15-19.14.39:032][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.15-19.14.39:033][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:033][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-19.14.39:036][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:036][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-19.14.39:037][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-19.14.39:037][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-19.14.39:037][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.15-19.14.39:040][  0]LogHAL: Display: Platform has ~ 8 GB [8538304512 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.15-19.14.39:040][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.15-19.14.39:040][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.15-19.14.39:040][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Scalability.ini]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.15-19.14.39:041][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Von Smith/Space-Game/Space_Game/Saved/Config/Windows/Engine.ini]
+[2019.11.15-19.14.39:041][  0]LogInit: Computer: IT00-177084
+[2019.11.15-19.14.39:041][  0]LogInit: User: vsmith1868
+[2019.11.15-19.14.39:041][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.15-19.14.39:041][  0]LogInit: High frequency timer resolution =3.905119 MHz
+[2019.11.15-19.14.39:041][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.11.15-19.14.39:041][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.15-19.14.39:041][  0]LogMemory: Process Physical Memory: 100.49 MB used, 100.49 MB peak
+[2019.11.15-19.14.39:041][  0]LogMemory: Process Virtual Memory: 100.55 MB used, 100.55 MB peak
+[2019.11.15-19.14.39:041][  0]LogMemory: Physical Memory: 5231.21 MB used,  2911.55 MB free, 8142.76 MB total
+[2019.11.15-19.14.39:041][  0]LogMemory: Virtual Memory: 4679.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.11.15-19.14.39:044][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.15-19.14.39:066][  0]LogInit: Using OS detected language (en-US).
+[2019.11.15-19.14.39:066][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.15-19.14.39:066][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.15-19.14.39:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.15-19.14.39:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.15-19.14.39:283][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-19.14.39:284][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.15-19.14.39:324][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.11.15-19.14.39:324][  0]LogD3D11RHI:       2016/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.15-19.14.39:326][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.15-19.14.39:326][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.15-19.14.39:326][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.15-19.14.39:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.15-19.14.39:332][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.15-19.14.39:332][  0]LogWindows: EnumDisplayDevices:
+[2019.11.15-19.14.39:332][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.11.15-19.14.39:333][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-19.14.39:333][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-19.14.39:333][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.11.15-19.14.39:333][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.15-19.14.39:333][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.11.15-19.14.39:333][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.11.15-19.14.39:334][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.11.15-19.14.39:334][  0]LogRHI: Texture pool is 1411 MB (70% of 2016 MB)
+[2019.11.15-19.14.39:359][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.15-19.14.39:370][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.15-19.14.39:667][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.15-19.14.39:673][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.15-19.14.39:687][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.15-19.14.39:690][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.15-19.14.39:691][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.15-19.14.39:698][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.15-19.14.39:739][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/Intermediate/Shaders/WorkingDirectory/1756/).
+[2019.11.15-19.14.39:739][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vsmith1868/AppData/Local/Temp/UnrealShaderWorkingDir/7640CD694BDFB24A2999EDB90D63997F/'.
+[2019.11.15-19.14.39:740][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.15-19.14.39:740][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.15-19.14.39:740][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.15-19.14.40:247][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vsmith1868/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/Von Smith/Space-Game/Space_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-19.14.40:317][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.15-19.14.40:327][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.15-19.14.40:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.15-19.14.40:327][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.15-19.14.40:328][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vsmith1868/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.15-19.14.40:328][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.15-19.14.40:328][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.15-19.14.40:347][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.15-19.14.40:349][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.15-19.14.40:350][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.15-19.14.40:438][  0]LogInit: Using OS detected language (en-US).
+[2019.11.15-19.14.40:438][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.15-19.14.40:438][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.11.15-19.14.40:438][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.11.15-19.14.40:438][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.15-19.14.40:438][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.11.15-19.14.40:439][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2019.11.15-19.14.40:443][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2019.11.15-19.14.40:625][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.000441 seconds
+[2019.11.15-19.14.40:668][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.15-19.14.40:786][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.15-19.14.40:786][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.15-19.14.40:786][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.15-19.14.40:786][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.15-19.14.40:786][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.15-19.14.40:794][  0]LogNetVersion: Space_Game 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1558173762)
+[2019.11.15-19.14.41:207][  0]LogMoviePlayer: Initializing movie player
+[2019.11.15-19.14.41:294][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.15-19.14.41:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.15-19.14.41:322][  0]SourceControl: Source control is disabled
+[2019.11.15-19.14.41:322][  0]SourceControl: Source control is disabled
+[2019.11.15-19.14.41:323][  0]SourceControl: Source control is disabled
+[2019.11.15-19.14.41:356][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.15-19.14.41:444][  0]LogOcInput: OculusInput pre-init called
+[2019.11.15-19.14.41:453][  0]LogUObjectArray: 48866 objects as part of root set at end of initial load.
+[2019.11.15-19.14.41:454][  0]LogUObjectAllocator: 8609784 out of 0 bytes used by permanent object pool.
+[2019.11.15-19.14.41:454][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.15-19.14.41:502][  0]LogEngine: Initializing Engine...
+[2019.11.15-19.14.41:503][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.15-19.14.41:504][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.15-19.14.41:650][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.15-19.14.41:663][  0]LogInit: XAudio2 using 'Speakers (Logitech USB Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.15-19.14.41:678][  0]LogInit: FAudioDevice initialized.
+[2019.11.15-19.14.41:678][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.15-19.14.41:689][  0]LogInit: Texture streaming: Enabled
+[2019.11.15-19.14.41:812][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-19.14.41:812][  0]LogInit: Display: Game Engine Initialized.
+[2019.11.15-19.14.41:854][  0]LogInit: Display: Starting Game.
+[2019.11.15-19.14.41:854][  0]LogNet: Browse: /Game/Levels/testmap?Name=Player
+[2019.11.15-19.14.41:854][  0]LogLoad: LoadMap: /Game/Levels/testmap?Name=Player
+[2019.11.15-19.14.41:854][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2019.11.15-19.14.41:856][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-19.14.41:880][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.15-19.14.42:209][  0]LogAIModule: Creating AISystem for world testmap
+[2019.11.15-19.14.42:216][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.15-19.14.42:254][  0]LogWorld: Bringing World /Game/Levels/testmap.testmap up for play (max tick rate 0) at 2019.11.15-11.14.42
+[2019.11.15-19.14.42:257][  0]LogWorld: Bringing up level for play took: 0.039883
+[2019.11.15-19.14.42:263][  0]LogLoad: Took 0.408337 seconds to LoadMap(/Game/Levels/testmap)
+[2019.11.15-19.14.42:287][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.11.15-19.14.42:287][  0]LogLoad: (Engine Initialization) Total time: 4.50 seconds
+[2019.11.15-19.14.42:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.15-19.14.42:328][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-19.14.42:330][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.15-19.14.47:532][319]PIE: Warning: FirstPersonProjectile_C_0.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.48:032][350]PIE: Warning: FirstPersonProjectile_C_1.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.48:532][381]PIE: Warning: FirstPersonProjectile_C_2.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.48:903][404]PIE: Warning: FirstPersonProjectile_C_3.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.48:983][409]PIE: Warning: FirstPersonProjectile_C_4.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:032][412]PIE: Warning: FirstPersonProjectile_C_5.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:064][414]PIE: Warning: FirstPersonProjectile_C_6.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:403][435]PIE: Warning: FirstPersonProjectile_C_7.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:419][436]PIE: Warning: FirstPersonProjectile_C_8.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:451][438]PIE: Warning: FirstPersonProjectile_C_9.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:483][440]PIE: Warning: FirstPersonProjectile_C_10.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:532][443]PIE: Warning: FirstPersonProjectile_C_11.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:564][445]PIE: Warning: FirstPersonProjectile_C_12.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:580][446]PIE: Warning: FirstPersonProjectile_C_13.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:661][451]PIE: Warning: FirstPersonProjectile_C_14.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:903][466]PIE: Warning: FirstPersonProjectile_C_15.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:919][467]PIE: Warning: FirstPersonProjectile_C_16.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.49:983][471]PIE: Warning: FirstPersonProjectile_C_17.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:032][474]PIE: Warning: FirstPersonProjectile_C_18.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:064][476]PIE: Warning: FirstPersonProjectile_C_19.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:532][505]PIE: Warning: FirstPersonProjectile_C_20.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:547][506]LogCharacterMovement: bp_zombie9 is stuck and failed to move! Velocity: X=30.19 Y=13.41 Z=0.00 Location: X=1029.63 Y=-578.84 Z=124.93 Normal: X=0.29 Y=-0.96 Z=-0.00 PenetrationDepth:0.925 Actor:bp_shooter_2 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.14.50:903][528]PIE: Warning: FirstPersonProjectile_C_21.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:935][530]PIE: Warning: FirstPersonProjectile_C_22.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.50:951][531]PIE: Warning: FirstPersonProjectile_C_23.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:080][539]PIE: Warning: FirstPersonProjectile_C_24.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:161][544]PIE: Warning: FirstPersonProjectile_C_25.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:403][559]PIE: Warning: FirstPersonProjectile_C_26.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:404][559]PIE: Warning: FirstPersonProjectile_C_27.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:419][560]PIE: Warning: FirstPersonProjectile_C_28.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:435][561]PIE: Warning: FirstPersonProjectile_C_29.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:451][562]PIE: Warning: FirstPersonProjectile_C_30.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:483][564]PIE: Warning: FirstPersonProjectile_C_31.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:565][569]PIE: Warning: FirstPersonProjectile_C_32.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:581][570]PIE: Warning: FirstPersonProjectile_C_33.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:661][575]PIE: Warning: FirstPersonProjectile_C_34.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:904][590]PIE: Warning: FirstPersonProjectile_C_35.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:904][590]PIE: Warning: FirstPersonProjectile_C_36.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:920][591]PIE: Warning: FirstPersonProjectile_C_37.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:936][592]PIE: Warning: FirstPersonProjectile_C_38.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.51:952][593]PIE: Warning: FirstPersonProjectile_C_39.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:033][598]PIE: Warning: FirstPersonProjectile_C_40.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:081][601]PIE: Warning: FirstPersonProjectile_C_41.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:161][606]PIE: Warning: FirstPersonProjectile_C_42.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:404][621]PIE: Warning: FirstPersonProjectile_C_43.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:420][622]PIE: Warning: FirstPersonProjectile_C_44.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:436][623]PIE: Warning: FirstPersonProjectile_C_45.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:452][624]PIE: Warning: FirstPersonProjectile_C_46.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:581][632]PIE: Warning: FirstPersonProjectile_C_47.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:935][654]PIE: Warning: FirstPersonProjectile_C_48.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.52:984][657]PIE: Warning: FirstPersonProjectile_C_49.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:032][660]PIE: Warning: FirstPersonProjectile_C_50.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:046][661]LogCharacterMovement: bp_zombie_2 is stuck and failed to move! Velocity: X=32.30 Y=6.91 Z=0.00 Location: X=931.97 Y=-371.72 Z=99.94 Normal: X=-0.70 Y=0.48 Z=0.53 PenetrationDepth:0.000 Actor:bp_shooter_2 Component:Right Leg BoneName:None (0 other events since notify)
+[2019.11.15-19.14.53:403][683]PIE: Warning: FirstPersonProjectile_C_51.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:419][684]PIE: Warning: FirstPersonProjectile_C_52.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:435][685]PIE: Warning: FirstPersonProjectile_C_53.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:452][686]PIE: Warning: FirstPersonProjectile_C_54.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:484][688]PIE: Warning: FirstPersonProjectile_C_55.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:532][691]PIE: Warning: FirstPersonProjectile_C_56.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:565][693]PIE: Warning: FirstPersonProjectile_C_57.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:903][714]PIE: Warning: FirstPersonProjectile_C_58.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:920][715]PIE: Warning: FirstPersonProjectile_C_59.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:952][717]PIE: Warning: FirstPersonProjectile_C_60.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.53:984][719]PIE: Warning: FirstPersonProjectile_C_61.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:032][722]PIE: Warning: FirstPersonProjectile_C_62.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:064][724]PIE: Warning: FirstPersonProjectile_C_63.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:080][725]PIE: Warning: FirstPersonProjectile_C_64.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:161][730]PIE: Warning: FirstPersonProjectile_C_65.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:403][745]PIE: Warning: FirstPersonProjectile_C_66.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:403][745]PIE: Warning: FirstPersonProjectile_C_67.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:419][746]PIE: Warning: FirstPersonProjectile_C_68.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:435][747]PIE: Warning: FirstPersonProjectile_C_69.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:451][748]PIE: Warning: FirstPersonProjectile_C_70.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:483][750]PIE: Warning: FirstPersonProjectile_C_71.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:532][753]PIE: Warning: FirstPersonProjectile_C_72.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:564][755]PIE: Warning: FirstPersonProjectile_C_73.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:580][756]PIE: Warning: FirstPersonProjectile_C_74.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:611][758]LogCharacterMovement: bp_zombie6 is stuck and failed to move! Velocity: X=10.58 Y=31.29 Z=0.00 Location: X=2826.67 Y=84.93 Z=93.37 Normal: X=-1.00 Y=-0.04 Z=0.08 PenetrationDepth:0.646 Actor:bp_zombie2_2 Component:Right Leg BoneName:None (0 other events since notify)
+[2019.11.15-19.14.54:661][761]PIE: Warning: FirstPersonProjectile_C_75.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:724][765]LogCharacterMovement: bp_zombie12 is stuck and failed to move! Velocity: X=0.95 Y=33.10 Z=0.00 Location: X=3089.18 Y=231.69 Z=89.17 Normal: X=-0.81 Y=-0.48 Z=-0.33 PenetrationDepth:2.890 Actor:bp_zombie5 Component:knife001 BoneName:None (0 other events since notify)
+[2019.11.15-19.14.54:837][772]LogCharacterMovement: bp_zombie10 is stuck and failed to move! Velocity: X=59.33 Y=273.20 Z=0.00 Location: X=2507.01 Y=-6.42 Z=98.63 Normal: X=-0.84 Y=-0.29 Z=0.46 PenetrationDepth:0.000 Actor:bp_zombie4 Component:Right Leg BoneName:None (0 other events since notify)
+[2019.11.15-19.14.54:903][776]PIE: Warning: FirstPersonProjectile_C_76.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:904][776]PIE: Warning: FirstPersonProjectile_C_77.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:920][777]PIE: Warning: FirstPersonProjectile_C_78.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:936][778]PIE: Warning: FirstPersonProjectile_C_79.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:952][779]PIE: Warning: FirstPersonProjectile_C_80.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.54:984][781]PIE: Warning: FirstPersonProjectile_C_81.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:033][784]PIE: Warning: FirstPersonProjectile_C_82.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:065][786]PIE: Warning: FirstPersonProjectile_C_83.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:081][787]PIE: Warning: FirstPersonProjectile_C_84.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:161][792]PIE: Warning: FirstPersonProjectile_C_85.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:404][807]PIE: Warning: FirstPersonProjectile_C_86.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:404][807]PIE: Warning: FirstPersonProjectile_C_87.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:419][808]PIE: Warning: FirstPersonProjectile_C_88.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:436][809]PIE: Warning: FirstPersonProjectile_C_89.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:452][810]PIE: Warning: FirstPersonProjectile_C_90.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:484][812]PIE: Warning: FirstPersonProjectile_C_91.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:533][815]PIE: Warning: FirstPersonProjectile_C_92.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:581][818]PIE: Warning: FirstPersonProjectile_C_93.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:661][823]PIE: Warning: FirstPersonProjectile_C_94.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:903][838]PIE: Warning: FirstPersonProjectile_C_95.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:904][838]PIE: Warning: FirstPersonProjectile_C_96.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:920][839]PIE: Warning: FirstPersonProjectile_C_97.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:933][840]LogCharacterMovement: bp_zombie10 is stuck and failed to move! Velocity: X=8.85 Y=232.11 Z=0.00 Location: X=2556.24 Y=200.98 Z=96.83 Normal: X=-0.77 Y=-0.63 Z=0.00 PenetrationDepth:2.225 Actor:bp_zombie4 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.14.55:936][840]PIE: Warning: FirstPersonProjectile_C_98.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:952][841]PIE: Warning: FirstPersonProjectile_C_99.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.55:985][843]PIE: Warning: FirstPersonProjectile_C_100.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:081][849]PIE: Warning: FirstPersonProjectile_C_101.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:162][854]PIE: Warning: FirstPersonProjectile_C_102.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:404][869]PIE: Warning: FirstPersonProjectile_C_103.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:405][869]PIE: Warning: FirstPersonProjectile_C_104.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:420][870]PIE: Warning: FirstPersonProjectile_C_105.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:436][871]PIE: Warning: FirstPersonProjectile_C_106.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:453][872]PIE: Warning: FirstPersonProjectile_C_107.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:485][874]PIE: Warning: FirstPersonProjectile_C_108.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:582][880]PIE: Warning: FirstPersonProjectile_C_109.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:662][885]PIE: Warning: FirstPersonProjectile_C_110.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:905][900]PIE: Warning: FirstPersonProjectile_C_111.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:905][900]PIE: Warning: FirstPersonProjectile_C_112.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:921][901]PIE: Warning: FirstPersonProjectile_C_113.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:937][902]PIE: Warning: FirstPersonProjectile_C_114.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:953][903]PIE: Warning: FirstPersonProjectile_C_115.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.56:984][905]PIE: Warning: FirstPersonProjectile_C_116.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:033][908]PIE: Warning: FirstPersonProjectile_C_117.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:081][911]PIE: Warning: FirstPersonProjectile_C_118.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:403][931]PIE: Warning: FirstPersonProjectile_C_119.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:404][931]PIE: Warning: FirstPersonProjectile_C_120.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:452][934]PIE: Warning: FirstPersonProjectile_C_121.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:484][936]PIE: Warning: FirstPersonProjectile_C_122.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:533][939]PIE: Warning: FirstPersonProjectile_C_123.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:581][942]PIE: Warning: FirstPersonProjectile_C_124.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:904][962]PIE: Warning: FirstPersonProjectile_C_125.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:905][962]PIE: Warning: FirstPersonProjectile_C_126.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:918][963]LogCharacterMovement: bp_zombie3_5 is stuck and failed to move! Velocity: X=-126.42 Y=279.40 Z=0.00 Location: X=2587.77 Y=839.99 Z=92.48 Normal: X=0.44 Y=-0.90 Z=0.00 PenetrationDepth:4.589 Actor:bp_zombie6 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.14.57:918][963]LogCharacterMovement: bp_zombie4 is stuck and failed to move! Velocity: X=-134.66 Y=300.35 Z=0.00 Location: X=2523.71 Y=750.35 Z=92.94 Normal: X=-0.29 Y=-0.96 Z=0.00 PenetrationDepth:3.349 Actor:bp_zombie3_5 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.14.57:952][965]PIE: Warning: FirstPersonProjectile_C_127.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.57:984][967]PIE: Warning: FirstPersonProjectile_C_128.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:033][970]PIE: Warning: FirstPersonProjectile_C_129.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:081][973]PIE: Warning: FirstPersonProjectile_C_130.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:403][993]PIE: Warning: FirstPersonProjectile_C_131.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:404][993]PIE: Warning: FirstPersonProjectile_C_132.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:452][996]PIE: Warning: FirstPersonProjectile_C_133.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:484][998]PIE: Warning: FirstPersonProjectile_C_134.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:532][  1]PIE: Warning: FirstPersonProjectile_C_135.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:581][  4]PIE: Warning: FirstPersonProjectile_C_136.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:904][ 24]PIE: Warning: FirstPersonProjectile_C_137.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:904][ 24]PIE: Warning: FirstPersonProjectile_C_138.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:952][ 27]PIE: Warning: FirstPersonProjectile_C_139.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.58:984][ 29]PIE: Warning: FirstPersonProjectile_C_140.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:033][ 32]PIE: Warning: FirstPersonProjectile_C_141.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:081][ 35]PIE: Warning: FirstPersonProjectile_C_142.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:403][ 55]PIE: Warning: FirstPersonProjectile_C_143.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:404][ 55]PIE: Warning: FirstPersonProjectile_C_144.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:452][ 58]PIE: Warning: FirstPersonProjectile_C_145.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:484][ 60]PIE: Warning: FirstPersonProjectile_C_146.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:581][ 66]PIE: Warning: FirstPersonProjectile_C_147.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:903][ 86]PIE: Warning: FirstPersonProjectile_C_148.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:935][ 88]PIE: Warning: FirstPersonProjectile_C_149.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.14.59:984][ 91]PIE: Warning: FirstPersonProjectile_C_150.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:033][ 94]PIE: Warning: FirstPersonProjectile_C_151.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:081][ 97]PIE: Warning: FirstPersonProjectile_C_152.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:403][117]PIE: Warning: FirstPersonProjectile_C_153.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:452][120]PIE: Warning: FirstPersonProjectile_C_154.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:484][122]PIE: Warning: FirstPersonProjectile_C_155.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:581][128]PIE: Warning: FirstPersonProjectile_C_156.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:904][148]PIE: Warning: FirstPersonProjectile_C_157.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:936][150]PIE: Warning: FirstPersonProjectile_C_158.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:952][151]PIE: Warning: FirstPersonProjectile_C_159.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.00:984][153]PIE: Warning: FirstPersonProjectile_C_160.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:033][156]PIE: Warning: FirstPersonProjectile_C_161.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:081][159]PIE: Warning: FirstPersonProjectile_C_162.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:404][179]PIE: Warning: FirstPersonProjectile_C_163.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:436][181]PIE: Warning: FirstPersonProjectile_C_164.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:452][182]PIE: Warning: FirstPersonProjectile_C_165.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:484][184]PIE: Warning: FirstPersonProjectile_C_166.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:533][187]PIE: Warning: FirstPersonProjectile_C_167.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:581][190]PIE: Warning: FirstPersonProjectile_C_168.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:904][210]PIE: Warning: FirstPersonProjectile_C_169.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:936][212]PIE: Warning: FirstPersonProjectile_C_170.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:952][213]PIE: Warning: FirstPersonProjectile_C_171.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.01:984][215]PIE: Warning: FirstPersonProjectile_C_172.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:032][218]PIE: Warning: FirstPersonProjectile_C_173.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:081][221]PIE: Warning: FirstPersonProjectile_C_174.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:403][241]PIE: Warning: FirstPersonProjectile_C_175.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:435][243]PIE: Warning: FirstPersonProjectile_C_176.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:451][244]PIE: Warning: FirstPersonProjectile_C_177.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:483][246]PIE: Warning: FirstPersonProjectile_C_178.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:514][248]LogCharacterMovement: bp_zombie2_2 is stuck and failed to move! Velocity: X=283.06 Y=91.18 Z=0.00 Location: X=2905.58 Y=2209.30 Z=83.83 Normal: X=-0.43 Y=-0.90 Z=0.00 PenetrationDepth:2.269 Actor:bp_zombie12 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.15.02:532][249]PIE: Warning: FirstPersonProjectile_C_179.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:580][252]PIE: Warning: FirstPersonProjectile_C_180.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:692][259]LogCharacterMovement: bp_zombie12 is stuck and failed to move! Velocity: X=327.70 Y=29.84 Z=0.00 Location: X=2951.73 Y=2337.10 Z=81.01 Normal: X=0.24 Y=0.81 Z=-0.53 PenetrationDepth:4.570 Actor:bp_zombie2_2 Component:knife001 BoneName:None (1 other events since notify)
+[2019.11.15-19.15.02:903][272]PIE: Warning: FirstPersonProjectile_C_181.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:951][275]PIE: Warning: FirstPersonProjectile_C_182.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.02:983][277]PIE: Warning: FirstPersonProjectile_C_183.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:032][280]PIE: Warning: FirstPersonProjectile_C_184.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:081][283]PIE: Warning: FirstPersonProjectile_C_185.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:403][303]PIE: Warning: FirstPersonProjectile_C_186.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:451][306]PIE: Warning: FirstPersonProjectile_C_187.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:484][308]PIE: Warning: FirstPersonProjectile_C_188.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:532][311]PIE: Warning: FirstPersonProjectile_C_189.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:580][314]PIE: Warning: FirstPersonProjectile_C_190.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:595][315]LogCharacterMovement: bp_zombie3_5 is stuck and failed to move! Velocity: X=330.82 Y=-114.29 Z=0.00 Location: X=3095.27 Y=2113.54 Z=82.99 Normal: X=0.50 Y=0.68 Z=-0.54 PenetrationDepth:2.635 Actor:bp_zombie4 Component:knife001 BoneName:None (0 other events since notify)
+[2019.11.15-19.15.03:904][334]PIE: Warning: FirstPersonProjectile_C_191.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:952][337]PIE: Warning: FirstPersonProjectile_C_192.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.03:983][339]PIE: Warning: FirstPersonProjectile_C_193.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:032][342]PIE: Warning: FirstPersonProjectile_C_194.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:081][345]PIE: Warning: FirstPersonProjectile_C_195.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:404][365]PIE: Warning: FirstPersonProjectile_C_196.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:451][368]PIE: Warning: FirstPersonProjectile_C_197.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:484][370]PIE: Warning: FirstPersonProjectile_C_198.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:532][373]PIE: Warning: FirstPersonProjectile_C_199.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:580][376]PIE: Warning: FirstPersonProjectile_C_200.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:902][396]PIE: Warning: FirstPersonProjectile_C_201.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:934][398]PIE: Warning: FirstPersonProjectile_C_202.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:950][399]PIE: Warning: FirstPersonProjectile_C_203.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.04:982][401]PIE: Warning: FirstPersonProjectile_C_204.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:031][404]PIE: Warning: FirstPersonProjectile_C_205.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:080][407]PIE: Warning: FirstPersonProjectile_C_206.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:403][427]PIE: Warning: FirstPersonProjectile_C_207.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:435][429]PIE: Warning: FirstPersonProjectile_C_208.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:484][432]PIE: Warning: FirstPersonProjectile_C_209.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:532][435]PIE: Warning: FirstPersonProjectile_C_210.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.05:935][460]PIE: Warning: FirstPersonProjectile_C_211.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:032][466]PIE: Warning: FirstPersonProjectile_C_212.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:080][469]PIE: Warning: FirstPersonProjectile_C_213.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:435][491]PIE: Warning: FirstPersonProjectile_C_214.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:451][492]PIE: Warning: FirstPersonProjectile_C_215.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:532][497]PIE: Warning: FirstPersonProjectile_C_216.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:580][500]PIE: Warning: FirstPersonProjectile_C_217.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:903][520]PIE: Warning: FirstPersonProjectile_C_218.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:935][522]PIE: Warning: FirstPersonProjectile_C_219.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.06:952][523]PIE: Warning: FirstPersonProjectile_C_220.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:032][528]PIE: Warning: FirstPersonProjectile_C_221.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:080][531]PIE: Warning: FirstPersonProjectile_C_222.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:403][551]PIE: Warning: FirstPersonProjectile_C_223.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:435][553]PIE: Warning: FirstPersonProjectile_C_224.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:451][554]PIE: Warning: FirstPersonProjectile_C_225.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:484][556]PIE: Warning: FirstPersonProjectile_C_226.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:580][562]PIE: Warning: FirstPersonProjectile_C_227.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:903][582]PIE: Warning: FirstPersonProjectile_C_228.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:935][584]PIE: Warning: FirstPersonProjectile_C_229.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:952][585]PIE: Warning: FirstPersonProjectile_C_230.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.07:984][587]PIE: Warning: FirstPersonProjectile_C_231.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:080][593]PIE: Warning: FirstPersonProjectile_C_232.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:403][613]PIE: Warning: FirstPersonProjectile_C_233.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:435][615]PIE: Warning: FirstPersonProjectile_C_234.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:452][616]PIE: Warning: FirstPersonProjectile_C_235.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:483][618]PIE: Warning: FirstPersonProjectile_C_236.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:580][624]PIE: Warning: FirstPersonProjectile_C_237.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:903][644]PIE: Warning: FirstPersonProjectile_C_238.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:935][646]PIE: Warning: FirstPersonProjectile_C_239.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:951][647]PIE: Warning: FirstPersonProjectile_C_240.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.08:983][649]PIE: Warning: FirstPersonProjectile_C_241.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:032][652]PIE: Warning: FirstPersonProjectile_C_242.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:080][655]PIE: Warning: FirstPersonProjectile_C_243.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:403][675]PIE: Warning: FirstPersonProjectile_C_244.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:435][677]PIE: Warning: FirstPersonProjectile_C_245.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:451][678]PIE: Warning: FirstPersonProjectile_C_246.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:483][680]PIE: Warning: FirstPersonProjectile_C_247.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:580][686]PIE: Warning: FirstPersonProjectile_C_248.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:904][706]PIE: Warning: FirstPersonProjectile_C_249.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:936][708]PIE: Warning: FirstPersonProjectile_C_250.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.09:984][711]PIE: Warning: FirstPersonProjectile_C_251.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:080][717]PIE: Warning: FirstPersonProjectile_C_252.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:403][737]PIE: Warning: FirstPersonProjectile_C_253.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:435][739]PIE: Warning: FirstPersonProjectile_C_254.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:452][740]PIE: Warning: FirstPersonProjectile_C_255.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:484][742]PIE: Warning: FirstPersonProjectile_C_256.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:580][748]PIE: Warning: FirstPersonProjectile_C_257.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:903][768]PIE: Warning: FirstPersonProjectile_C_258.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:936][770]PIE: Warning: FirstPersonProjectile_C_259.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:952][771]PIE: Warning: FirstPersonProjectile_C_260.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.10:984][773]PIE: Warning: FirstPersonProjectile_C_261.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:080][779]PIE: Warning: FirstPersonProjectile_C_262.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:403][799]PIE: Warning: FirstPersonProjectile_C_263.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:435][801]PIE: Warning: FirstPersonProjectile_C_264.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:451][802]PIE: Warning: FirstPersonProjectile_C_265.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:484][804]PIE: Warning: FirstPersonProjectile_C_266.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:532][807]PIE: Warning: FirstPersonProjectile_C_267.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:581][810]PIE: Warning: FirstPersonProjectile_C_268.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:903][830]PIE: Warning: FirstPersonProjectile_C_269.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:935][832]PIE: Warning: FirstPersonProjectile_C_270.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:951][833]PIE: Warning: FirstPersonProjectile_C_271.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.11:984][835]PIE: Warning: FirstPersonProjectile_C_272.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:032][838]PIE: Warning: FirstPersonProjectile_C_273.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:403][861]PIE: Warning: FirstPersonProjectile_C_274.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:435][863]PIE: Warning: FirstPersonProjectile_C_275.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:451][864]PIE: Warning: FirstPersonProjectile_C_276.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:532][869]PIE: Warning: FirstPersonProjectile_C_277.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:902][892]PIE: Warning: FirstPersonProjectile_C_278.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:935][894]PIE: Warning: FirstPersonProjectile_C_279.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.12:951][895]PIE: Warning: FirstPersonProjectile_C_280.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:032][900]PIE: Warning: FirstPersonProjectile_C_281.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:403][923]PIE: Warning: FirstPersonProjectile_C_282.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:436][925]PIE: Warning: FirstPersonProjectile_C_283.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:452][926]PIE: Warning: FirstPersonProjectile_C_284.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:532][931]PIE: Warning: FirstPersonProjectile_C_285.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:904][954]PIE: Warning: FirstPersonProjectile_C_286.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:936][956]PIE: Warning: FirstPersonProjectile_C_287.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.13:952][957]PIE: Warning: FirstPersonProjectile_C_288.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:032][962]PIE: Warning: FirstPersonProjectile_C_289.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:403][985]PIE: Warning: FirstPersonProjectile_C_290.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:436][987]PIE: Warning: FirstPersonProjectile_C_291.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:452][988]PIE: Warning: FirstPersonProjectile_C_292.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:532][993]PIE: Warning: FirstPersonProjectile_C_293.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:903][ 16]PIE: Warning: FirstPersonProjectile_C_294.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.14:951][ 19]PIE: Warning: FirstPersonProjectile_C_295.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:032][ 24]PIE: Warning: FirstPersonProjectile_C_296.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:403][ 47]PIE: Warning: FirstPersonProjectile_C_297.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:451][ 50]PIE: Warning: FirstPersonProjectile_C_298.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:533][ 55]PIE: Warning: FirstPersonProjectile_C_299.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:903][ 78]PIE: Warning: FirstPersonProjectile_C_300.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.15:951][ 81]PIE: Warning: FirstPersonProjectile_C_301.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.16:032][ 86]PIE: Warning: FirstPersonProjectile_C_302.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.16:403][109]PIE: Warning: FirstPersonProjectile_C_303.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.16:451][112]PIE: Warning: FirstPersonProjectile_C_304.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.16:903][140]PIE: Warning: FirstPersonProjectile_C_305.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.16:952][143]PIE: Warning: FirstPersonProjectile_C_306.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:032][148]PIE: Warning: FirstPersonProjectile_C_307.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:403][171]PIE: Warning: FirstPersonProjectile_C_308.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:451][174]PIE: Warning: FirstPersonProjectile_C_309.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:532][179]PIE: Warning: FirstPersonProjectile_C_310.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:903][202]PIE: Warning: FirstPersonProjectile_C_311.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.17:951][205]PIE: Warning: FirstPersonProjectile_C_312.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:032][210]PIE: Warning: FirstPersonProjectile_C_313.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:404][233]PIE: Warning: FirstPersonProjectile_C_314.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:451][236]PIE: Warning: FirstPersonProjectile_C_315.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:532][241]PIE: Warning: FirstPersonProjectile_C_316.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:903][264]PIE: Warning: FirstPersonProjectile_C_317.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.18:951][267]PIE: Warning: FirstPersonProjectile_C_318.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:032][272]PIE: Warning: FirstPersonProjectile_C_319.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:403][295]PIE: Warning: FirstPersonProjectile_C_320.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:452][298]PIE: Warning: FirstPersonProjectile_C_321.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:532][303]PIE: Warning: FirstPersonProjectile_C_322.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:903][326]PIE: Warning: FirstPersonProjectile_C_323.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.19:952][329]PIE: Warning: FirstPersonProjectile_C_324.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:033][334]PIE: Warning: FirstPersonProjectile_C_325.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:403][357]PIE: Warning: FirstPersonProjectile_C_326.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:452][360]PIE: Warning: FirstPersonProjectile_C_327.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:532][365]PIE: Warning: FirstPersonProjectile_C_328.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:903][388]PIE: Warning: FirstPersonProjectile_C_329.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.20:952][391]PIE: Warning: FirstPersonProjectile_C_330.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:032][396]PIE: Warning: FirstPersonProjectile_C_331.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:403][419]PIE: Warning: FirstPersonProjectile_C_332.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:451][422]PIE: Warning: FirstPersonProjectile_C_333.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:531][427]PIE: Warning: FirstPersonProjectile_C_334.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:902][450]PIE: Warning: FirstPersonProjectile_C_335.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.21:951][453]PIE: Warning: FirstPersonProjectile_C_336.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.22:031][458]PIE: Warning: FirstPersonProjectile_C_337.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.22:402][481]PIE: Warning: FirstPersonProjectile_C_338.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.22:451][484]PIE: Warning: FirstPersonProjectile_C_339.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.22:532][489]PIE: Warning: FirstPersonProjectile_C_340.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.22:902][512]PIE: Warning: FirstPersonProjectile_C_341.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.23:032][520]PIE: Warning: FirstPersonProjectile_C_342.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.23:403][543]PIE: Warning: FirstPersonProjectile_C_343.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.23:903][574]PIE: Warning: FirstPersonProjectile_C_344.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.24:903][636]PIE: Warning: FirstPersonProjectile_C_345.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.25:033][644]PIE: Warning: FirstPersonProjectile_C_346.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.25:532][675]PIE: Warning: FirstPersonProjectile_C_347.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.27:033][768]PIE: Warning: FirstPersonProjectile_C_348.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.27:338][787]LogCharacterMovement: bp_zombie5 is stuck and failed to move! Velocity: X=224.95 Y=-218.67 Z=0.00 Location: X=2523.27 Y=-3386.11 Z=112.91 Normal: X=-0.73 Y=0.68 Z=0.00 PenetrationDepth:13.270 Actor:bp_zombie3_5 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.15.27:532][799]PIE: Warning: FirstPersonProjectile_C_349.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.28:032][830]PIE: Warning: FirstPersonProjectile_C_350.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.28:224][842]LogCharacterMovement: bp_zombie11 is stuck and failed to move! Velocity: X=281.19 Y=-51.08 Z=0.00 Location: X=2689.75 Y=-3369.37 Z=102.38 Normal: X=-0.98 Y=0.22 Z=0.00 PenetrationDepth:2.480 Actor:bp_zombie5 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.15.28:532][861]PIE: Warning: FirstPersonProjectile_C_351.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.28:837][880]LogCharacterMovement: bp_zombie5 is stuck and failed to move! Velocity: X=280.08 Y=142.68 Z=0.00 Location: X=2889.18 Y=-3438.12 Z=93.79 Normal: X=-0.89 Y=-0.45 Z=0.00 PenetrationDepth:7.564 Actor:bp_zombie3_5 Component:Arms BoneName:None (1 other events since notify)
+[2019.11.15-19.15.29:033][892]PIE: Warning: FirstPersonProjectile_C_352.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.29:532][923]PIE: Warning: FirstPersonProjectile_C_353.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.30:032][954]PIE: Warning: FirstPersonProjectile_C_354.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.30:532][985]PIE: Warning: FirstPersonProjectile_C_355.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.31:031][ 16]PIE: Warning: FirstPersonProjectile_C_356.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.31:532][ 47]PIE: Warning: FirstPersonProjectile_C_357.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.32:032][ 78]PIE: Warning: FirstPersonProjectile_C_358.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.32:532][109]PIE: Warning: FirstPersonProjectile_C_359.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.35:531][295]PIE: Warning: FirstPersonProjectile_C_360.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.36:032][326]PIE: Warning: FirstPersonProjectile_C_361.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.36:532][357]PIE: Warning: FirstPersonProjectile_C_362.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.37:532][419]PIE: Warning: FirstPersonProjectile_C_363.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.38:032][450]PIE: Warning: FirstPersonProjectile_C_364.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.38:532][481]PIE: Warning: FirstPersonProjectile_C_365.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.39:032][512]PIE: Warning: FirstPersonProjectile_C_366.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.39:532][543]PIE: Warning: FirstPersonProjectile_C_367.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.40:032][574]PIE: Warning: FirstPersonProjectile_C_368.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.40:532][605]PIE: Warning: FirstPersonProjectile_C_369.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.41:032][636]PIE: Warning: FirstPersonProjectile_C_370.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.41:532][667]PIE: Warning: FirstPersonProjectile_C_371.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.42:032][698]PIE: Warning: FirstPersonProjectile_C_372.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.42:532][729]PIE: Warning: FirstPersonProjectile_C_373.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.43:032][760]PIE: Warning: FirstPersonProjectile_C_374.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.43:535][791]PIE: Warning: FirstPersonProjectile_C_375.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.44:034][822]PIE: Warning: FirstPersonProjectile_C_376.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.44:534][853]PIE: Warning: FirstPersonProjectile_C_377.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.44:840][872]LogCharacterMovement: bp_zombie6 is stuck and failed to move! Velocity: X=-35.96 Y=243.15 Z=0.00 Location: X=1942.32 Y=544.26 Z=92.90 Normal: X=0.82 Y=-0.53 Z=-0.24 PenetrationDepth:0.000 Actor:bp_zombie4 Component:Arms BoneName:None (0 other events since notify)
+[2019.11.15-19.15.44:856][873]LogCharacterMovement: bp_zombie4 is stuck and failed to move! Velocity: X=-13.50 Y=30.15 Z=0.00 Location: X=1828.27 Y=547.64 Z=92.47 Normal: X=-0.77 Y=0.40 Z=-0.50 PenetrationDepth:5.658 Actor:bp_zombie6 Component:knife001 BoneName:None (0 other events since notify)
+[2019.11.15-19.15.45:035][884]PIE: Warning: FirstPersonProjectile_C_378.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.45:535][915]PIE: Warning: FirstPersonProjectile_C_379.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.46:035][946]PIE: Warning: FirstPersonProjectile_C_380.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.46:534][977]PIE: Warning: FirstPersonProjectile_C_381.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.47:035][  8]PIE: Warning: FirstPersonProjectile_C_382.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.47:535][ 39]PIE: Warning: FirstPersonProjectile_C_383.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.48:035][ 70]PIE: Warning: FirstPersonProjectile_C_384.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.48:534][101]PIE: Warning: FirstPersonProjectile_C_385.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.49:034][132]PIE: Warning: FirstPersonProjectile_C_386.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.49:535][163]PIE: Warning: FirstPersonProjectile_C_387.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.50:035][194]PIE: Warning: FirstPersonProjectile_C_388.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.50:535][225]PIE: Warning: FirstPersonProjectile_C_389.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.53:034][380]PIE: Warning: FirstPersonProjectile_C_390.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.53:535][411]PIE: Warning: FirstPersonProjectile_C_391.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.54:034][442]PIE: Warning: FirstPersonProjectile_C_392.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.54:421][466]LogCharacterMovement: bp_zombie11 is stuck and failed to move! Velocity: X=329.93 Y=61.24 Z=0.00 Location: X=3137.92 Y=2778.19 Z=80.52 Normal: X=-0.78 Y=-0.60 Z=-0.18 PenetrationDepth:0.000 Actor:bp_zombie5 Component:Arms BoneName:None (1 other events since notify)
+[2019.11.15-19.15.54:535][473]PIE: Warning: FirstPersonProjectile_C_393.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.55:357][524]LogCharacterMovement: bp_zombie6 is stuck and failed to move! Velocity: X=188.94 Y=-294.62 Z=0.00 Location: X=3641.11 Y=2787.01 Z=79.80 Normal: X=0.84 Y=-0.26 Z=-0.48 PenetrationDepth:4.521 Actor:bp_zombie4 Component:knife001 BoneName:None (0 other events since notify)
+[2019.11.15-19.15.55:421][528]LogCharacterMovement: bp_zombie4 is stuck and failed to move! Velocity: X=21.53 Y=-25.05 Z=0.00 Location: X=3533.00 Y=2762.52 Z=81.73 Normal: X=-0.99 Y=0.02 Z=0.13 PenetrationDepth:0.298 Actor:bp_zombie6 Component:Left Leg BoneName:None (0 other events since notify)
+[2019.11.15-19.15.55:535][535]PIE: Warning: FirstPersonProjectile_C_394.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.56:035][566]PIE: Warning: FirstPersonProjectile_C_395.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.56:535][597]PIE: Warning: FirstPersonProjectile_C_396.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.57:035][628]PIE: Warning: FirstPersonProjectile_C_397.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.57:535][659]PIE: Warning: FirstPersonProjectile_C_398.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.58:035][690]PIE: Warning: FirstPersonProjectile_C_399.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.58:535][721]PIE: Warning: FirstPersonProjectile_C_400.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.59:036][752]PIE: Warning: FirstPersonProjectile_C_401.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.15.59:535][783]PIE: Warning: FirstPersonProjectile_C_402.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.01:035][876]PIE: Warning: FirstPersonProjectile_C_403.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.01:535][907]PIE: Warning: FirstPersonProjectile_C_404.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.03:035][  0]PIE: Warning: FirstPersonProjectile_C_405.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.03:535][ 31]PIE: Warning: FirstPersonProjectile_C_406.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.04:035][ 62]PIE: Warning: FirstPersonProjectile_C_407.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.04:535][ 93]PIE: Warning: FirstPersonProjectile_C_408.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.05:036][124]PIE: Warning: FirstPersonProjectile_C_409.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.05:535][155]PIE: Warning: FirstPersonProjectile_C_410.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.06:035][186]PIE: Warning: FirstPersonProjectile_C_411.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.06:535][217]PIE: Warning: FirstPersonProjectile_C_412.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.07:036][248]PIE: Warning: FirstPersonProjectile_C_413.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.07:535][279]PIE: Warning: FirstPersonProjectile_C_414.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.08:034][310]PIE: Warning: FirstPersonProjectile_C_415.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.08:535][341]PIE: Warning: FirstPersonProjectile_C_416.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.09:035][372]PIE: Warning: FirstPersonProjectile_C_417.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.09:535][403]PIE: Warning: FirstPersonProjectile_C_418.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.10:035][434]PIE: Warning: FirstPersonProjectile_C_419.Orange FirstPersonProjectileMesh has to have 'Simulate Physics' enabled if you'd like to AddImpulse. 
+[2019.11.15-19.16.16:889][859]LogWindowsDesktop: Alt-F4 pressed!
+[2019.11.15-19.16.16:891][859]LogSlate: Window 'Space_Game (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.11.15-19.16.16:891][859]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-19.16.16:895][859]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.15-19.16.16:896][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-19.16.16:896][859]LogEngine: All Windows Closed
+[2019.11.15-19.16.16:896][859]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.11.15-19.16.16:902][860]LogWorld: BeginTearingDown for /Game/Levels/testmap
+[2019.11.15-19.16.16:902][860]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-19.16.17:554][860]LogExit: Preparing to exit.
+[2019.11.15-19.16.17:554][860]LogMoviePlayer: Shutting down movie player
+[2019.11.15-19.16.18:351][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-19.16.18:362][860]LogExit: Game engine shut down
+[2019.11.15-19.16.18:365][860]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.15-19.16.18:441][860]LogExit: Object subsystem successfully closed.
+[2019.11.15-19.16.18:454][860]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (408)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module SequenceRecorder (406)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module AutomationController (404)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module AutomationWorker (402)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module Voice (400)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module AIModule (398)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module GameplayDebugger (397)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module AITestSuite (395)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module NavigationSystem (393)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module OculusMR (390)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (388)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (386)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module WebMMedia (384)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (382)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (380)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (378)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (376)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (374)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (372)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module CharacterAI (370)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module SessionServices (368)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (366)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module LiveCoding (364)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module LevelSequence (362)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module PortalServices (354)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module PortalRpc (352)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module MessagingRpc (350)
+[2019.11.15-19.16.18:462][860]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (348)
+[2019.11.15-19.16.18:464][860]LogModuleManager: Shutting down and abandoning module ProfilerService (346)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module TaskGraph (344)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module SteamVRController (342)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module EditableMesh (334)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (332)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module CableComponent (330)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module AudioCapture (328)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (326)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (324)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module AppleImageUtils (322)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module AndroidPermission (320)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (318)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (316)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module MediaCompositing (314)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module ImgMedia (312)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (310)
+[2019.11.15-19.16.18:640][860]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (308)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (306)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module HTML5Networking (304)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (302)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (301)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module BackChannel (294)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module AutomationUtils (292)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module VariantManagerContent (290)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (288)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module CryptoKeys (286)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (284)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (282)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (278)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module SourceControl (271)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (268)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (266)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module SignificanceManager (264)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (262)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (260)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module ActorSequence (254)
+[2019.11.15-19.16.18:641][860]LogModuleManager: Shutting down and abandoning module UdpMessaging (252)
+[2019.11.15-19.16.18:742][860]LogModuleManager: Shutting down and abandoning module TcpMessaging (250)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (248)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (246)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (244)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (242)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapController (240)
+[2019.11.15-19.16.18:843][860]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MagicLeapAR (238)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module AugmentedReality (237)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (230)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module TreeMap (229)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module AnimationSharing (226)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module Paper2D (222)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (220)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (218)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (216)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module PacketHandler (214)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (212)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (210)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MediaAssets (208)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module Overlay (206)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module OverlayEditor (205)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module VREditor (202)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module StringTableEditor (200)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (198)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (196)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module FunctionalTesting (194)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (192)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (191)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module UMG (188)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module UMGEditor (187)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module Sequencer (186)
+[2019.11.15-19.16.18:843][860]LogModuleManager: Shutting down and abandoning module MessageLog (183)
+[2019.11.15-19.16.18:844][860]LogModuleManager: Shutting down and abandoning module SlateReflector (178)
+[2019.11.15-19.16.18:844][860]LogModuleManager: Shutting down and abandoning module Slate (176)
+[2019.11.15-19.16.18:844][860]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (174)
+[2019.11.15-19.16.18:844][860]LogModuleManager: Shutting down and abandoning module EditorStyle (172)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module UnrealEd (170)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module Core (156)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module KismetCompiler (154)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module MeshUtilities (152)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (151)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (150)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (149)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (147)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (145)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module MaterialBaking (141)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (136)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (134)
+[2019.11.15-19.16.18:845][860]LogModuleManager: Shutting down and abandoning module DerivedDataCache (132)
+[2019.11.15-19.16.18:932][860]LogDerivedDataCache: Shutdown
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module XGEController (130)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TargetPlatform (128)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (127)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (125)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (123)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (121)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (119)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (117)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (115)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (113)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (111)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (109)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module ImageWrapper (108)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (105)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (103)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (101)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (99)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.15-19.16.18:932][860]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.15-19.16.18:932][860]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.15-19.16.18:933][860]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.15-19.16.18:933][860]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.15-19.16.18:964][860]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.15-19.16.18:991][860]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.15-19.16.18:992][860]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.15-19.16.18:993][860]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.15-19.16.18:993][860]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.15-19.16.18:993][860]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.15-19.16.18:994][860]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.15-19.16.18:994][860]LogD3D11RHI: Shutdown
+[2019.11.15-19.16.18:994][860]LogD3D11RHI: CleanupD3DDevice
+[2019.11.15-19.16.18:995][860]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-19.16.18:995][860]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-19.16.18:995][860]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.15-19.16.19:058][860]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.15-19.16.19:064][860]LogExit: Exiting.
+[2019.11.15-19.16.19:076][860]Log file closed, 11/15/19 11:16:19
